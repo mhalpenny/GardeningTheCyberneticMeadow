@@ -1,3 +1,4 @@
-/Assets/Images
-.DS_Store
+Assets/Images
 Assets/Drivers
+.DS_Store
+credentials.h
