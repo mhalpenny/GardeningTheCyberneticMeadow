@@ -1,0 +1,474 @@
+                    
+
+In June , Maker Media announced that it had laid off its entire staff and ceased its
+operations. Over the last  years, the company had successfully positioned itself as the
+face of a self-proclaimed 'maker movement'. It had celebrated making, tinkering, and
+DIYing with technology as educational leisure activity. It had organized local showcases
+and written detailed tutorials for your next project, that crazy cyberpunk clock or smart
+weather station. Its signature MAKE magazine had provided the guides for choosing
+(read: buying) your next dev board or D printer, allowing you to finally build that ret-
+ro camera or automate your home in your spare time. Maker Media's popularity and
+influence have been undeniable, but not uncontroversial. Its ideology, lack of diversity,
+and strategic choices (such as accepting DARPA funding), were subjected to critical
+scrutiny from practitioners within the maker realm as well as the hackers, artists, and
+cultural critics in adjacent fields.
+
+The death knell of Maker Media gives us pause. It provides us with a moment to reflect
+about making practices, about the ideologies and imperatives built into this so-called
+movement. What constitutes better stuff when it comes down it, when we examine the
+essence of how things are made and embedded into a social, economical, cultural,
+political, and ecological fabric? Slick promises and good intentions often obscure a
+non-solution with more undesirable and unintended consequences than you can fit on
+a product poster. Nevertheless, you too can build this – provided you can spend €
+in sensors, boards, and acrylic sheets, and have the luxury of at least two weeks of free
+time to learn new skills and visit a local makerspace within their limited (or non-existent)
+public opening hours. Who benefits from this making and who doesn't? During the giddy
+rise of Maker Media-style making, these basic questions were passed over or waved
+away with user research and agile methods involving mostly corporate stakeholders.
+
+ But the gravesite of Maker Media might also be a garden, sprouting the early shoots of
+ a new critical making. Makers are increasingly shaking off their initial blind enthusiasm
+ to numerically control everything, renewing an interest in sociocultural histories and
+ futures, as well as the environmental and economical implications of digital machines
+ for subtracting, adding, transforming, and connecting materials. Whereas a decade ago
+ many gaped starry-eyed at the possibilities of D printers and other DIY tech, a critical
+ mass now points out that no service, tool, or piece of software is good, bad, or neutral
+– or even free for that matter. Your cheap hardware from China is costing someone else
+ their health and soil. In response, new critical initiatives are emerging in the shape of
+ feminist makerspaces, local communal electronics depots, repair and upcycling com-
+ munities, and research and education platforms centering around sustainable materials
+ and open-source tools.
+
+We've arrived at a crossroads. What was making? What is making? And perhaps most crit-
+ically, what could making become? These are the questions this anthology investigates.
+                                                                                           
+
+
+
+
+The Maker is Dead. Long Live the Maker?
+
+Shortly after the news of MAKE's demise, a discussion erupted on the net-time mailing list, a
+critical eulogy that identified some strengths while pointing to many issues. Garnet Hertz took
+issue with the brand's mission to transform preexisting DIY maker practices into a commercial
+franchise. 'MAKE did a ton to help out this scene', he admitted, but they also 'whitewashed
+a lot of interesting things (experimental art, hacktivism, strange design work, hacker culture,
+interactive art, electronic music etc) – their paradigm of the franchise 'was an odd fit for DIY
+culture'. The making we had was one commodified version, one possibility in a constellation
+of broader making practices.
+
+Others debated the maker's position in the creative economy. While the products created
+may have had limited economic viability, perhaps this was not the main issue. Richard Sewell
+argued that there is always value in learning through making. 'The greatest value of the maker
+movement has been an explosion of people making things that don't entirely make sense and
+are not intended as commercial ventures', he asserted, 'That's not an issue, that's the point.
+They are learning to envision things and then make them and then learn from them, and they
+are making their own marvels'. Making is a process and a practice, not just an outcome.
+
+Others signaled the urgency of maintaining products and tools, and the importance of locally
+available resources to do so. For Adrian McEwen, making should also be framed in terms of
+repairs. 'We are facing many challenges: the climate emergency, labour conditions, plastic
+everywhere, wealth inequality,' he observed, 'there's lots of work to be done [...] If we're
+repairing our products more, then every town will need a bunch of people who can design
+replacement parts and make the repairs [...] Open hardware will then have an advantage
+because the schematics and designs will all be ready available for that. Making leans forward
+into a more broken and more hyperlocal future.
+
+These posts provide an autopsy whilst trying to revive the maker's healthier organs. Can we
+really say the maker is dead? Hardly. The municipality of Amsterdam, for instance, is currently
+rolling out publicly available shared makerspaces in the city's public libraries to facilitate st
+century learning and 'citymaking' for children by teaching them how to use CNC machines
+such as laser cutters and D printers. On the other hand, tinkerers, toy makers, shop display
+producers, and other local creative professionals and amateurs in Amsterdam have seen
+co-working spaces with digital fabrication facilities pop up – often with the funding from that
+same municipality – and close business just a few years later, leaving questions of successful
+maker business models and their relationship to precarious labour and tensions with activist
+ideals largely unanswered.
+
+
+     Archives/nettime-l-/msg.html.
+
+
+Perhaps it is education, above all, where making has exerted the most influence. 'Some of
+our best successes', stressed MAKE CEO Dale Dougherty, 'are in education'. 'The company
+is failing as a business but not as mission', he claimed, leading him to wonder if the company
+should reform as a non-profit. Tutorials and sample projects on platforms like Instructables
+and MAKE have played an influential role in education, scaffolding the technological learn-
+ing advocated in STE(A)M education paradigms in K- education in the US, and primary
+and secondary education of young people in Europe. However, pedagogies to adequately
+educate are still under review or awaiting a much-needed critical update. 'I see a potentially
+interesting/exciting new direction that could come of the dissolution of MAKE's stronghold
+in the realm of education', notes Minka Stoyanova; rather than simply 'teaching electronics
+to kids', tech education could include 'teaching critical approaches to technology, teaching
+media literacy, critical thinking, and environmental thinking'.
+
+While this foray into education was (arguably) successful, it also contributed to creating a
+population of makers lost without step-by-step project tutorials (Instructables), ready-made
+kits (Arduino or other dev boards), plug-ins and proprietary software (Adobe suite, Rhinoc-
+eros). Many beginning makers expected ideas-on-demand and immediate technical success,
+lubricated with easy-to-use software tools that seamlessly connect to one another. These
+padded conditions obscured how vectors, gcode, and transistors actually operate – and
+how such technologies might intersect with economic, legislative, political, and cultural
+developments. MAKE's culture, Chris Csikszentmihalyi concludes, 'encouraged a false con-
+sciousness that might change how but not what is made'. In this environment, any potential
+to alter or appropriate a tool's functionality was overshadowed by the seemingly endless
+possibilities offered by the default settings. Too often, form followed a limit set of predefined
+functionalities, resulting in everything looking the same. The creative became cookie-cutter.
+
+Such critiques resonate with our own discontents as researchers and educators. In these
+roles, we have studied the role of makerlabs in urban economies in Italy and the Netherlands
+and taught in the digital fabrication workshop of an applied university. These activities have
+meant grappling with how making might slot into education. In , a transdisciplinary
+semester course named Makers Lab: Making as Research was developed to bridge higher
+maker education informed by critical conceptual thought. This process of designing a maker
+course was significantly inspired by participating in Fab Academy, a globally standardized
+training course that takes place in local FabLabs like the one here in Amsterdam.
+
+
+These firsthand experiences revealed the double-edged nature of making. Those who could
+invest the time and money to participate learned to develop highly technical prototypes from
+scratch: from creating molds to designing and milling PCBs. Careful tinkering with materials,
+electronic components, and digital fabrication processes provided an embodied understand-
+ing of technologies and their inherent malleability. There are endless ways to connect and
+disconnect things, to configure and reconfigure objects. But it also taught us that there are
+tradeoffs – whether cognitive, emotional, aesthetic, sociocultural – when negotiating the
+affordances of tools and materials. Such knowledge seemed particularly fitting for polytechnic
+higher education and applied research. But is there a strut missing from this educational
+framework? Besides practical technical know-how and material knowledge, where are the
+critical conceptual tools that would enable learners to imagine and develop maker projects
+that can address the pressing political and ecological issues of our time?
+
+In the process of putting together a syllabus for the course, it became clear that these
+questions had also been asked in the Critical Making described by information scholar Matt
+Ratto and the more object-centered strand developed by artist and designer Garnet Hertz.
+Hertz calls to re-politicize maker culture by pointing to the deficiencies and problems with
+making and the maker identity as successfully marketed by Maker Media. Critical Making
+and related approaches like Critical Technical Practice instead seek to produce objects that
+uncover injustice, highlight discrimination, and point to issues of power such as gender
+inequality, surveillance, racism, and human rights. The aim is not simply to critique from
+the outside, but to assess how one's own disciplinary framework and professional habitus
+might be contributing to such inequalities. Such approaches highlight the potential of making
+for generating knowledge and creating new critical perspectives. These, in turn, have con-
+sequences for the way we imagine, position, and organize physical spaces for making and
+whose agendas they should serve. They carve out a particular discursive space for makers
+to grapple with our broader, messier array of contemporary problems. Rather than Silicon
+Valley solutionism, they urge us to stay with the trouble.
+
+The cultural practices MAKE drew upon, like DIY electronics, have existed much longer than
+the brand. The company attempted to incorporate a scene of cultural producers, technical
+practitioners, and casual hobbyists under the banner of makers. But in doing so, they largely
+reduced making to technological tinkering for empowerment-entertainment, mainly for an
+already powerful and affluent Western middle class. While often ignored, making always inter-
+sected with class in a particular way. This relationship between class and making has been
+leveraged strategically and politically before. One way to understand the maker phenomenon
+is the latest incarnation of a longstanding drive to monetize 'non-discursive technical cultures'
+which can be traced back at least to the Enlightenment, as Graham Harwood points out.
+
+
+
+In its universal global vision, the MAKE version of maker culture excluded a plethora
+of other practices and perspectives. It ignored historical linkages to politically engaged
+and activist creative technical practices developed in hackerspaces and (media) art
+collectives. It failed to address the problematic inheritances of its gendered and colo-
+nialist past and present. And it broke its promise of generating jobs and intervening in
+exploitative capitalist modes of global production. As Alice Yang reminds us: 'Most of
+the actual makers of our electronic products are women of color working in factories in
+the third and developing world.'
+
+The end of MAKE signals a moment in which we might wonder how to fill the institutional/
+ educational hole it leaves behind, and how it might be filled without falling in the same
+ traps. But critical making has a legacy of its own that is informing the way courses in
+ universities and art academies are structured. This presents us with an opportunity to
+ take stock of a decade of critical making by revisiting the original ideas behind the term
+– by looking both sideways and ahead. Who is the maker today, what is being made, and
+ who benefits from contemporary makerly labour? And most importantly: what should
+ be the next step?
+
+This anthology gives space to critical makers to imagine the futures of their labs, tools,
+material engagements, and knowledge production. Do we need updated models for
+thought and practice? An open source based commons? New institutions or ways of
+instituting and organizing? Different business models? Other avenues and contexts for
+engaged technical practice? These questions take center stage and invite you to join the
+conversation: in class, online, and in your (maker) communities. The goal of this book
+is to provide makers, students, and ourselves with an overview that is both accessible
+and theoretical. Written primarily from the perspective of engaged practitioners, we see
+it resonating with people from a range of disciplines. In doing so, we hope to provide a
+critically made book about critical making.
+
+Structure of the Reader
+
+This anthology features  contributions from designers, artists, hackers, makers, and
+crafters, as well as activists, theorists, and scholars reflecting on contemporary maker
+cultures. Throughout the book, we've consciously decided to avoid any hard distinction
+between theory and practice. Some contributors describe in more detail how theory has
+informed their practice, while others flip this equation, explaining how their practice has
+led to different concepts and models for thinking. The reader is invited to draw further
+connections between the overlapping or even entangled contributions. The overture of
+the book is offered by Critical Making pioneers Matt Ratto  Garnet Hertz, who trace the
+intellectual genealogy of the term while reflecting on their own pedagogical practices
+in interdisciplinary learning. The sections that follow are organized into the following
+four themes:
+
+
+
+Matter that Matters: Material Engagements with a Cause
+
+In the face of climate change, surveillance capitalism powered by blackboxed 'smart'
+technologies, and the simultaneous material turn in the humanities, theories of making
+are being articulated anew. The anthropocentric character in Western thought and prac-
+tices has been seriously called into question. After all, look at where the 'progress' of our
+supposedly productive design and engineering tendencies have led us. Whether stemming
+from older theological thought or newer neoliberal mantras, the imperative of the human
+to command and control, to dominate and domesticate, has become untenable. After the
+linguistic turn, reducing the world to social constructs shuts our eyes to its vibrant mate-
+riality, to the realm of active agents that shape, resist, and even speak through material
+difference (for those who know how to listen). Viewed in this light, making becomes a
+mutually transformative act between non-human and human, where material and discur-
+sive actors continuously come into being together.
+
+The contributors in this section center around this kind of engagement, advocating for new
+articulations of critical making as a form of immanent critique. Rather than the all-too-
+easy debunking and complaining of the outsider, they acknowledge their position within.
+Here, thought is seen to have agency and action is always reflective (Graham Harwood,
+and Maria Dada's post-critical counter-testimony of the maker). The more-than-human
+maker does not make from scratch, but engages material that coexists alongside her as
+always already-there. She is attentive to scale, to volume, and to the time of materiality.
+She oscillates between making and unmaking, shifting between the abstract and contex-
+tualized (Critical Media Lab, xtine burroughs <> Lucy HG Solomon). After the death of the
+neoliberal maker, feminist/new materialist and posthuman theory becomes a tactical guide
+for a more-than-human maker culture (Gareth Foote and Eva Verhoeven).
+
+(Un)Learning Technology: Homo Faber's Tools
+
+Contributors to this section highlight the potential of critical material engagements for learning
+about, but also with, technology. In this respect, they recall Matt Ratto's reminder that learning
+with and about technology should never merely be a means for priming (young) people for
+successful careers. These artists, designers, practitioners, and thinkers provide elucidating
+examples of projects across a variety of sectors in arts, design, and formal and informal
+educational environments. They attempt to critically unmake and remake machine learning
+algorithms (Caroline Sinders), discarded hard drives (KairUs), and electronic components
+(David Cole  Hannah Perner-Wilson).
+
+The role of tools in processes of learning by making can be seen as a point of interest
+since constructionist models for learning were devised by Jean Piaget, Seymour Papert,
+and others. Vilém Flusser grappled with the mutually in-form-ative relationships between
+tools, makers, factories (or sites of production) and schools (or sites of learning), a set of
+conditions that allowed the figure of homo faber to emerge. Twenty years down the line,
+tools remain a point of interest, as authors assess what might constitute critical making in
+the context of architectural training (Wim Nijenhuis), design education (Serena Cangiano),
+
+and laundry practices (Samantha Penn). These contributions problematize not only the
+tools but the larger sociocultural, ecological, geographical, and historical contexts they
+are embedded within. Nor we should forget that language itself is a tool, and inquire as
+to how the critical maker might challenge it (Verena Kuni). Can these discursive tools
+be unmade to reveal new productive forces? Perhaps critical making is most adequately
+defined as a simultaneously constructionist and diffractive process of learning: a tacit,
+material, and conceptual transformation.
+
+Organizing Openness: Sociality and Community
+
+Since the  financial crisis, we have observed the rise of collaborative workspaces in
+cities all over the world. Creative workers, freelancers, and designers have gathered in
+coworking spaces, makerspaces, creative ateliers, and cultural hubs. The rise of such
+shared workspaces implies a break from the traditional division of labour set out by fac-
+tories and offices. The spatio-organizational format of these new spaces is a response to
+the expansion of digital culture, where openness and sociality are considered require-
+ments for any making practice. This culture is centered on open technology standards
+that are, in theory, accessible to anyone. Such free and open ideals originate from
+more established peer-to-peer practices within software development. The affordances
+and demands associated with these ideals have catalyzed new forms of organization of
+labour and production. For instance, in software production, the hierarchical and top-
+down organizational characteristics of factory production have started to be replaced by
+decentralized peer practices, as epitomized by the open source movement. Aspects of
+sociality and community created by these practices become crucial ingredients in the
+material production of objects and artifacts.
+
+Given these shifts, some argue that what is missing in MAKE-style making is the role
+of the collective and critical action beyond the practice of making itself. This requires
+a critical look at how sociality might be appropriately contextualized, firmly situated in
+local communities and histories. The organizational practices of the Enkel collective
+provide one insightful illustration of how this might be carried out (Benjamin Matthews).
+Some practices intervene in the face of institutions, using tactics to trace the blackboxed
+physical and infrastructural components of Amazon Web services in Ireland (Paul O'Neil).
+Others show how self-organized communities interrogate housing databases to enable
+intervention and dissent in the context of urban regeneration in London (Tom Keene).
+
+Contributors in this section address aspects of labour in relation to open design communi-
+ties. They develop methods to destandardize design and challenge the prevalent concept
+of the universal user (Deanna Herst). They rearticulate the work involved in maintaining
+a sustainable open design commons (Peter Troxler). Of course, communities possess a
+certain class, a particular politics, a specific gender makeup. The role of these spaces
+of sociality in technical development, learning, and experimentation are discussed in the
+context of academia (Krystin Gollihue  Abigail Browning), and in a f(r)ictional dialogue
+between a hacker and a designer (Anja Groten).
+                                                                                                  
+
+
+
+
+Making Spaces: Labs, Institutions, and Autonomous Zones
+
+Promoters of the Maker Movement designed a single vision and an overarching brand,
+attempting to draw together the corporate with the highly radical and autonomous. This
+global maker concept assumed that there is enough common ground between makers
+across continents to claim this common name. It assumed that you can 'make almost
+anything' with the same standardized set of tools. It assumed that internet accessibility
+is the same everywhere. And it assumed that the same set of values are largely trans-
+ferable and universal.
+
+But making was never monolithic. Makers have organized themselves in very different
+ways. Authors in this section shed light on the ways in which such implied universality is
+problematic if left unquestioned. People in different locations, in different social positions,
+and even within the same society hardly share the same privileges equally. This results in
+different desires and ideas of success, as well as different demands for information and
+survival in online and offline spaces.
+
+Examples of how the needs and values of different communities in different contexts vary
+widely is addressed in relation to sex work under SESTA-FOSTA (Grace van Ness), and as
+strategies for resisting state surveillance of online communication in China (Kat Braybrooke).
+Indeed, Chinese maker identity provides an access point for understanding the prob-
+lems of discussing Global South making practices within a Western-centric discourse on
+critical making. For example, the maker practice of Shanzai, the production of cheap
+imitation goods, is deemed incompatible with the global digital economy, creating a
+tension between older local practices and the influx of borrowed digital universalisms
+and logics of the digital creative economy (Xin Gu  Pip Shea). In wealthy European and
+Australasian countries on the other hand, community workshops are being instrumental-
+ized for creating attractive alternatives in terms of sustainable and liveable post-growth
+cities. Lastly, the domestication of maker-activists and counterculture community work-
+shops and the negotiation of their ideals must be addressed in relation to local municipal
+support and evaluation (Cindy Kohtala  Sharon Ede).
+
+This closing topic leads into questions around critical making practices and institutional-
+ization. The apparent newness of the idea of collaborative knowledge creation in labs is
+countered by tracing its gendered and colonialist past. This lineage still informs how con-
+temporary lab work is structured and valued in universities (Maya Livio  Lori Emerson),
+for example. On a more general level, instituting, as the process of being institutionalized,
+is discussed as an (im)possible arena for critical making practice (Bernhard Garnicnig).
+
+
+
+
+Is writing about critical making like dancing about architecture?
+
+Considerable effort has been made to include a variety of perspectives in this book. We are
+pleased to be able to present contributions from design, arts, engineering, media, and theory
+in all kinds of imaginable hybrids. Writings here come from people in academia, the creative
+industries, education, and activist collectives – or all of the above. However, as editors we are
+the first to admit that we have been decidedly less successful in including the voices from the
+Global South. That said, various authors discuss practices that do not originate in the Global
+North, and we encourage to follow such threads beyond the confines of this book. In different
+ways, everyone involved considers reading and writing to be meaningful enough to devote
+considerable energy to – to go through the time-consuming and emotional task of working
+through feedback given by two young strangers who continually ask for more. Perhaps being
+in such a position is related to having some kind of investment in the idea and potential of
+critical making in the first place. Perhaps what we consider to be critical, what we call making,
+is not even registered as such in other contexts, where communities have different methods
+and tools to give meaningful direction to what they do and create. As Donna Haraway reminds
+us: 'grammar is politics by other means'.
+
+ Writing and making make an odd pair. With one hand, we formalize our societal reflections
+ into the discursive power of words. With the other, we perform the concrete activity of mak-
+ ing and creating. But without wanting to either underplay or overhype making, we believe
+ there's enough to gain by reconnecting these two practices. We hope this collection of words
+ can help articulate the criticality of making – forming the discursive in-between space that
+ is so necessary for questioning making. We invite makers like ourselves – in classrooms,
+ neighborhood communities, shared studios, tool shops, hackerspaces, and university labs
+– to inhabit this space. While this volume is inherently limited, we hope its contributions will
+ offer you new ways of connecting with people, new approaches to tools and activities, and
+ new methods for pushing the boundaries of your own practice. We want to thank everyone
+ involved for their openness, persistence, suggestions, and wonderful enthusiasm. We hope
+ you enjoy what we have made together.
+
+Critical making is increasingly being adopted to describe design-oriented practices and ped-
+agogies that include both conceptual and technical work. Engaging with definitions and
+articulations of critical making is important given its increasing circulation. Critical making has
+found its way into workshops and papers, has been used as a theme for several academic
+conferences, has become the title for a number of academic courses, and has served as a
+banner for a number of academic initiatives, including as a visioning principle for the Rhode
+Island School of Design. It is therefore worthwhile to step back and describe Ratto's original
+intentions regarding the coining of this term and to articulate our ongoing research and ped-
+agogical work to reincorporate both critical analysis and material making.
+
+ The term critical making was initially used by Ratto in  to define a conjoined pedagog-
+ ical and research practice that used material engagements with technologies to open up
+ and extend critical social reflection. These early experiences coordinating critical making
+ workshops proved a fruitful source to explore theories about the relations between society
+ and technology drawn from fields such as Science and Technology Studies and Philosophy
+ of Science. Most importantly, this work served to articulate the desire 'to theoretically and
+ pragmatically connect two modes of engagement with the world that are often held separate
+– critical thinking, typically understood as conceptually and linguistically based, and physical
+"making", goal-based material work'.
+
+
+colloquially, by the experiences of the authors. Importantly, the transformation of one's under-
+standing regarding the relations between society and technology may involve an affectual
+dimension that is often under addressed in both social and technical work: 'Ultimately, critical
+making is about turning the relationship between technology and society from a "matter of
+fact" into a "matter of concern". I [Ratto] see this as requiring personal investment, a "caring
+for" that is not typically part of either technical or social scholarly education'.
+
+The importance of integrative educational initiatives that work to bridge the humanities and
+technology is highlighted by the adoption of acronyms such as 'STEAM' by directors of
+mainstream educational initiatives. Here, the more traditional focus on Science, Technology,
+Engineering, and Math is supplemented with the term Art as a placeholder for the forms
+of knowledge and pedagogies associated with aesthetic and humanities-based education.
+Needless to say, it is no more possible to simply add in 'art' – whatever that term is expected
+to encompass – to pedagogical practices in engineering or science disciplines, than it is to
+simply add in 'engineering' or 'science' to art-based pedagogies. Some problems relate to
+institutional divides and the problems inherent in navigating between various organizations.
+Others relate to the variety of processes and results that are seen as valid forms of knowledge
+by differing disciplinary groups. Creating interdisciplinary approaches and perspectives that
+engage the epistemological differences between art and technology or science is not merely
+an additive process, but requires substantial and novel pedagogical moves.
+
+The 'Critical' in Critical Making
+
+We believe that 'critical' is an essential attribute for such interdisciplinary practice, including
+reflective thinking about the value propositions and epistemic boundaries and practices
+within traditional disciplines. We also see criticality as including expansive thinking about the
+site and social import of the objects and forms of knowledge that emerge from one's work.
+Second, we believe that productive project-based 'making' is an important mode of produc-
+tion for interdisciplinary work because it can operate as a non-disciplinary middle ground for
+different communities and groups. The linking of personal investment, critical theory, and
+material production is what marks critical making as a unique mode of engagement with
+the world. The authors, each in their own way, have continued these developments, looking
+to establish educational initiatives and curricula that work to develop critical makers with
+appropriate skill sets and understandings that engender critical innovations and experiments
+regarding the sociotechnical.
+
+By 'critical', we tend to see this as following the interventionist and transformative theoretic
+work associated with the Frankfurt School of Critical Theory. The scholars most associated
+with the Frankfurt school included Herbert Marcuse, Theodor Adorno, and Max Horkheimer.
+These scholars – and many others – shared a conception of a 'critical theory' understood as
+adjacent from the dominant academic concept of 'theory' present in scientific work of that
+time. Rather than focusing on generalizable descriptions of current conditions, critical theory
+
+
+
+ was primarily concerned with understanding and constituting 'reasonable conditions of life'.
+ According to Horkheimer, doing so required a rejection of such normative valuations of theory
+ as 'better, useful, appropriate, productive, and valuable', due to the ways in which research
+ associated with such valuations were both predicated by and worked to reinforce current
+ social situations. Social transformation and an increase in 'human emancipation' required
+ non-normative theory that strove to transform rather than describe. Here it is important to
+ note the differences between 'critical' understood as merely reflexive and hermeneutic, and
+'critical' as defined here and linked to the overt goal 'to liberate human beings from the cir-
+ cumstances that enslave them'.
+
+Certain academic disciplines such as political economy, philosophy, and cultural studies
+have promoted 'criticality' as an intrinsic aspect of their work and have actively developed
+pedagogical processes to help students adopt and practice critical approaches. However,
+we do not believe that criticality is an intrinsic aspect of any specific academic discipline.
+Instead, criticality can be understood as a present though often somewhat hidden aspect
+of all disciplinary practice. This is revealed by technical disciplinary engagements that have
+focused extensively on criticality as part of a technical practice.
+
+Within the framework of technological design, criticality tends to first delete – or at least put
+aside – current value propositions associated with technology. Three critical material-concep-
+tual practices can be singled out as illustrative of specific attention to the variety of naturalized
+values typically associated with technology and technological development. First, critical
+design as described and practiced by Dunne and Raby addresses the dominant focus on
+commercialization and for-profit interests within the world of design, using the design and
+exhibition of objects to reveal these interests and provide alternatives. Their aim is to make
+consumers more aware of the values, ideologies, and behavioral norms inscribed in the
+designs that are used in their everyday lives.

@@ -1,0 +1,298 @@
+ Labs are Laborious.
+
+In this provocation, we shift from considering who counts as a knower to who counts as a
+laborer in a lab. What labor counts? How is labor equitably acknowledged and compensated?
+How are attributions handled? How is rest ensured?
+
+
+
+
+     Perspective', Feminist Studies , no.  (): p. .
+
+The etymological root of 'laboratory' is the latin 'laborum' and 'laboratorium', for labor and
+place of labor, indicating the degree to which embodied labor has historically been at the heart
+of any lab work. However, too often labs continue to be structured hierarchically in such a
+way that those performing the embodied labor of experimentation and testing are given titles
+such as 'technician', 'intern', or 'research assistant', compensated with lower (or no) pay,
+and left unattributed on lab outputs or listed at the end of a long list of authors while those
+perceived to be performing the intellectual direction of the lab are placed at the top, with all
+of its attendant privileges. A lab driven by feminist ethics must aim to acknowledge the labor
+of all of its workers. This may include not only those laborers carrying out duties more directly
+tied to research, but also those working in service of the lab and performing less legible labor
+such as the cleaning staff, administrative staff, and marketing staff.
+
+In terms of author attribution, some labs may choose to address unjust hierarchical assump-
+tions by opting for a mostly flat model. To take just one example, they might choose to place
+an asterisk next to all or some author names, indicating that those authors contributed
+equally. These models are excellent in some cases. However, as Liboiron et al. point out,
+non-hierarchical attribution can make it difficult for lab members to accrue publication val-
+ue when seeking employment in academic institutions. We are particularly taken with the
+methods the authors put forward from their own lab – the explicitly feminist, anti-colonial
+Civic Laboratory for Environmental Action Research (CLEAR), methods based in 'a situated
+and context dependent process that assumes decisions about author order will be different
+for every paper'. The authors concretely outline methods for consensus-building that take
+into consideration equity across the complex social, economic, and political locations of lab
+laborers. We believe that such a system could be used not only for author attribution, but for
+devising job titles that work to complicate hierarchies, and that suddenly make visible the
+entire range of laboring that takes place in a lab.
+
+Finally, appropriate attribution of labor must be paired with equally appropriate compensation,
+as well as with boundaries for how much each lab member can be expected to work. Drawing
+on Liboiron et al.'s guidelines for attribution, we believe that the creation of clear divisions
+between work time and rest time should also be made via a process driven by equity (taking
+into account how much people are able and available to work), consensus (open discussions
+should be staged about equitable division of labor, weekly work hours, breaks, and holidays),
+and care (all work hours should contain some flexibility to account for the physical and emo-
+tional well-being, childcare requirements, and other needs of each member).
+
+. Hierarchies Trickle Down to Knowledge.
+
+Expanding upon issues of hierarchy, this provocation considers how hierarchy is negotiated
+in the overall organization of a lab and its work. Here, we focus here on the hierarchies within
+lab membership itself. But it is important to note that these points, as well as the labor and
+
+
+
+
+
+attribution concerns addressed above, extend also to addressing hierarchies in external
+community relationships, as well as with any human and non-human research subjects. As
+we have already touched upon, distribution of power is a key concern for feminist methodol-
+ogy. Given that the knowledge produced in labs is collectively shaped, power negotiation is
+particularly crucial to ensuring that the knowledge practices of a lab represent the diversity
+of its members. Decentralization of power might look different for each lab depending on
+its size, institutional commitments, and the kinds of work it produces. For example, are lab
+decisions made through a public or anonymous voting process? Are there elected or volun-
+teer representatives who make decisions on behalf of member concerns? Must unanimity
+be reached in voting?
+
+Here, CLEAR again serves as a useful model, as the lab has outlined protocols for running
+meetings and coming to agreement based on established methods of talking circles, facilita-
+tion, and consensus-based decision making. Even when applying methods such as these,
+however, conflict will inevitably arise in democratic negotiations, and how disagreements are
+addressed is significant for establishing affirming feminist spaces. We will address conflict fur-
+ther in the following section, but one helpful strategy for overcoming decision-making hurdles
+is by outlining (and periodically re-outlining) the lab's mission and values, then considering
+the decisions to be made against these values. Even seemingly mundane questions such
+as how a lab represents itself in marketing collateral, or which sources of funding it may or
+may not accept, are key to connecting a lab's work to its values, and should be considered
+with intention in lab meetings. The MIT Media Lab, for example, has long embraced fund-
+ing from ARPA, DARPA, and large corporations; and we also now know that the lab has
+knowingly accepted large sums of funding money from known sex trafficker Jeffrey Epstein
+over the years. How does this reflect on the Lab's values, and how has it trickled down to
+its research agenda?
+
+Establishing shared values builds community, and building and maintaining community
+in the lab can aid in the overall work of hierarchical negotiation. Cultivating community can
+take many forms, such as regular check-ins or surveys that take stock of community member
+needs, with clear follow-ups to address those needs. Community can also be addressed in
+more unstructured ways, such as by encouraging and supporting social time. Some feminist labs,
+such as Laura Devendorf's Unstable Design Lab, offer open 'playtime', where lab members can
+informally talk and experiment. This kind of space for connecting knowledge-making work with
+
+
+
+dialogue and 'lived histories' is useful for feminist community-building, as well as for feminist
+knowledge-production, as Jacqueline Wernimont and Elizabeth Losh argue in their discussion
+of feminist makerspaces: 'We do not separate "yack" from "hack" any more than one might
+partition a "stitch-n-bitch"'. It is important to stress here, however, that even informal social
+activities can reinforce hierarchies, as in Edison's lab, where community-building was more
+akin to 'male bonding' according to Wershler et al., 'in a way that very much anticipates
+contemporary tech/startup culture.'
+
+. Safety Includes Affirmation.
+
+This provocation emerges from questions about how to make a lab physically and emotionally
+safe, as well as what safety means. How is the lab made into an affirming space for members,
+visitors, and its extended community? Where can lab members turn for support?
+
+Regardless of whether a lab is a digital humanities lab, media lab, wet lab, dry lab, hacklab,
+fablab, or makerspace, it must be physically safe. A lab is, as Wershler et al. assert, 'a com-
+plex assemblage of relational forces between its space, infrastructure, apparatus, techniques,
+and people'. Inattention to any one of these elements – in the case of safety, an inattention
+to people – creates a power imbalance not only between those who are safe (for example,
+directors or administrators who might have little direct contact with lab equipment) and those
+who are not safe (those who do have contact in the course of undertaking experiments or
+creative work), but it also creates a power imbalance between a lab's space and equipment
+and the people working there. What good is a lab if its materials are valued more than its
+human participants? Thus, in terms of physical safety, labs must regularly take stock of their
+exterior and interior infrastructure. Is the lab's electrical wiring up to its needs? Does it have
+adequate ventilation and clear information and procedures about hazardous materials and
+their disposal? Is it secure from intruders? Does the lab have a system in place for reporting
+and addressing malfunctioning equipment?
+
+Looking after the emotional well-being of lab participants is also critical, and begins by respect-
+ing their identities and needs. Asking all lab community members to share their gender
+pronouns should be standard practice as new members join. There should also be a forum
+for members to note accommodations they might require in the lab, as well as religious
+observances or other commitments that might affect their work schedule. Appropriate, clear
+protocols for incorporating these needs into the lab's structure must then be established. Care
+for lab participants is also grounded in the constant and careful maintenance of the lab as
+an affirming space. What we intend here, after Jeannie Ludlow, is for the lab to go beyond
+notions of 'safe space' in order to build an environment that is supportive for growth. As we
+mentioned earlier, conflict and disagreement is inevitable in labs, and as Ludlow asserts,
+
+
+
+
+feminist spaces are not always 'safe', in the sense that they challenge viewpoints and raise
+sensitive topics. Ludlow argues instead for what she calls 'contested spaces', ones that are
+not conflict-free but rather support respectful disagreement and tension. Cultivating the
+lab as a contested, affirming space, is key for supporting productive conflict-resolution and
+community-building. Emotional and physical safety must also be nurtured via a clear and
+transparent reporting structure for breaches in professional behavior. A lack of transparency
+about what happens in a lab, what constitutes professional behavior, and who may report to
+whom can quickly produce an environment where abuses of power take place.
+
+. Non-Humans are Community Members, too.
+
+In this final provocation, we point to the more-than-human concerns that a feminist lab must
+take up. As we have already mentioned above, labs and lab practices emerged out of scientific
+value systems – systems which imposed worldviews onto knowledge production that were limited
+in scope. Robin Wall Kimmerer highlights those limits in Braiding Sweetgrass, and she makes
+clear how anti-colonial, feminist approaches can serve to bring neglected concerns back into
+view, specifically, those of non-humans. She writes:
+
+     In moving from a childhood in the woods to the university, I had unknowingly shifted
+     between worldviews, from a natural history of experience, in which I knew plants as
+     teachers and companions to whom I was linked with mutual responsibility, into the realm
+     of science. The questions scientists raised were not 'Who are you?' but 'What is it?' No
+     one asked plants 'What can you tell us?' The primary question was 'How does it work?'
+
+We insist that all living beings impacted by a lab's work should be considered as part of its com-
+munity. When a lab works with non-human subjects, ethical questions are readily noticeable;
+however, we would like to point out that non-humans outside of the lab also require care. How
+are the needs of our non-human planetary cohabitants taken into consideration in the lab's work?
+How are ethical material usage and disposal taken into account (practices which can of course
+also affect human animals, with marginalized groups disproportionately affected)? One example
+that is alarmingly prevalent in labs is the use of plastics. Plastics are found widely across lab
+disciplines – from the test tubes of biolabs to the circuit boards of hackerspaces. These implicate
+a lab in the systemic extraction and waste practices currently affecting all of Earth's living beings.
+
+In order to address questions of material usage and waste, we propose Amanda Starling
+Gould's 'Digital Environmental Media Studies (DEMS)' framework as a useful starting point
+to think with. While the framework is built around the digital, it can be applied to other
+
+
+
+knowledge practices, as it encourages taking the full supply chain of sites of knowledge-making
+into consideration, from beginning (such as minerals and plastics) to end (such as wastes and
+toxicants). Reuse, repair, and other 'circular economy' practices are, as Isenhour and Reno make
+evident, firmly tied to a feminist ethics of care, and are of vital importance to a feminist lab's work.
+
+From Feminist Labs to Feminist Logistics
+
+The provocations we have outlined here consider how models of thinking-together could bene-
+fit from the application of feminist methodologies and approaches. While we have written them
+for feminist labs, they can also be applied towards broader feminist logistics. How can human
+and non-humans, together with technologies, spaces, and infrastructures, be organized into
+collective feminist sites? To be clear, attending to these concerns can be time-consuming,
+tedious, and perhaps worst of all – boring. Here we find useful Astra Taylor's call for doing
+the laborious work of organizing, arguing that 'endless meetings, strategy sessions, research,
+spreadsheets, [and] conference calls' are invaluable efforts in social justice work. We believe
+these to be equally important for spaces of feminist knowledge-making and logistics.
+
+We have also implicitly argued here for making lab practices and logistics visible, and thereby
+accountable, to those who have been and continue to be written out of labs. However, as we
+insist throughout, it is not simply a matter of diverse representation. While crucially import-
+ant, this cannot, in and of itself, cure deeply embedded patriarchal, colonial, racist, ableist,
+imperialist, ageist, and environmentally damaging assumptions. Rather, those assumptions
+themselves must be addressed, as they are intrinsically tied to the infrastructure and admin-
+istration of that crucial engine of knowledge production: the lab. Questions such as what
+counts as expertise and who counts as an expert (in the words of Latour and Woolgar, an
+issue of 'credit and credibility') remain of vital importance. Thus, by way of the preceding
+six provocations, we end with a final challenge. What might be possible if we rethink not just
+the who and what of labs, but the how?
+
+
+
+Farrow, Ronan.'How an Elite University Research Center Concealed its Relationship with Jef-
+frey Epstein', The New Yorker,  September , https://www.newyorker.com/news/news-desk/
+how-an-elite-university-research-center-concealed-its-relationship-with-jeffrey-epstein
+Fleck, Ludwik. Genesis and Development of Scientific Fact, Chicago: University of Chicago Press,
+ ().
+Fuller, Laurie and Ann Russo. 'Feminist Pedagogy: Building Community Accountability', Feminist
+Haraway, Donna. 'Situated Knowledges: The Science Question in Feminism and the Privilege of Partial
+hooks, bell. Feminist Theory from Margin to Center. Boston: South End Press, .
+Isenhour, Cindy and Joshua Reno. 'On Materiality and Meaning: Ethnographic Engagements with
+Kimmerer, Robin Wall. Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teach-
+ings of Plants, st edition, Minneapolis: Milkweed Editions, .
+Knorr Cetina, Karen. 'Laboratory Studies: The Cultural Approach to the Study of Science', Handbook
+Latour, Bruno, and Woolgar, Steve. Laboratory Life: The Construction of Scientific Facts. Princeton:
+Princeton University Press, .
+Liboiron, Max. 'How to Run a Feminist Science Lab Meeting', CLEAR blog, https://civiclaboratory.
+nl////how-to-run-a-feminist-science-lab-meeting/.
+Ludlow, Jeannie. 'From Safe Space to Contested Space in the Feminist Classroom'. Transformations:
+Maguire, Patricia. 'Feminist Participatory Research'. In Alison Jaggar (ed) Just Methods: An Interdisci-
+plinary Feminist Reader, nd edition, Boulder: Paradigm Publishers, .
+Millard, A. J. Edison and the Business of Innovation. Baltimore: Johns Hopkins University Press, .
+'Pollution Affects Americans Unequally: Interview with Robert Bullard'. Union of Concerned Scientists,
+ Catalyst (Spring ), https://www.ucsusa.org/sp-inquiry-robert-bullard.
+Shapin, Steven. 'The House of Experiment in Seventeenth-Century England'. Isis, Vol. , No. , A
+Smith, Linda Tuhiwai. Decolonizing Methodologies: Research and Indigenous Peoples, nd edition,
+London: Zed Books, .
+Starling Gould, Amanda. 'Restor(y)ing the Ground: Digital Environmental Media Studies', Networking
+Knowledge: Journal of the MeCCSA Postgraduate Network, . ( July ).
+Taylor, Astra. 'Keynote', Rhizome Seven on Seven, New York, , https://rhizome.org/editorial//
+may//seven-on-seven-.
+Wernimont, Jacqueline and Elizabeth M. Losh. 'Wear and Care Feminisms at a Long Maker Table',
+The Routledge Companion to Media Studies and Digital Humanities, Abingdon: Routledge, .
+Wershler, Darren, Jussi Parikka and Lori Emerson. THE LAB BOOK: Situated Practices in Media Stud-
+ies, Unpublished manuscript, in-progress.
+Young, Iris Marion. Inclusion and Democracy, Oxford: Oxford University Press, .
+Yusoff, Kathryn. A Billion Black Anthropocenes or None, Minneapolis: University of Minnesota Press, .
+
+      Making It Up:
+         Critical
+      Practices of
+       Instituting
+      Bernhard Garnicnig
+                      MAKING SPACES: LABS, INSTITUTIONS, AND AUTONOMOUS ZONES                   
+
+
+
+
+MAKING IT UP: CRITICAL PRACTICES OF INSTITUTING
+                                  BERNHARD GARNICNIG
+
+This text exists because of the proximity between the terms 'critical making' and 'making it up'.
+The text examines cases in which artists 'made up' spaces and places that take on institutional
+and corporate forms. In these cases, this making-up is understood as an emancipatory appro-
+priation that actualizes artists and citizens relations to institutions or corporations. Copying and
+mimicking the heraldry, ornament, and jargon of institutions is considered as a means towards
+reaching an eye-level position with corporations or bodies of governance in order to address them
+with the intent of political transformation. The following examples allow us to reflect on each of
+their distinct approaches to the understanding of 'criticality'. These allow reflection on how such
+inventive mimicry might need to be approached. Rather than attempting utopian improvements,
+this practice of making spaces coproduces the slippages that occur once infrastructures attempt
+to adopt and dissolve their difference.
+
+Meeting a Bootstrap Museum Director
+
+I met David H. Wilson, the founder of the Museum of Jurassic Technology, in their upstairs tea
+room. Just minutes earlier I had finished watching a film in their screening room, a portrait of
+the Isabella Stewart Gardner Museum in Boston. The film was shot with the idea of portraying
+the museum through its maintenance personnel, as well as emphasizing the invisible relations
+between objects around which its founder had arranged the exhibit. David was very fond of this
+museum and mentioned it as if it were a sister from a different mother, with both siblings sharing
+a profound love for museums and the poetic power of constellations.
+
+I inquired into how his museum got started and the practicalities of running it today. He proudly
+pointed out that everyone who worked with him could earn three times as much elsewhere,
+yet many of his employees have stayed on the team for years. In that moment, an employee
+needed Mr. Wilson's attention. Once again, the rain in this unusually wet winter had surprised
+the homeless man who dwells in their unused entrance to the expansion building. A brief
+exchange followed, centered on a soggy sleeping bag. Who owed whom how many dollars from
+the last time it was brought to the coin laundry to dry, and had a new one been purchased for
+him? The conversation became a logistical one, as often happens in environments where a lot
+of small things get done quickly to achieve something big. Who is going to get him a new and
+dry sleeping bag, and where will they try to dry the old one? In that moment, it quickly became
+clear that the MJT had become much more than a made-up museum. It had become a space
+that takes on an institutional function, integrating methods and practices critical to their time
+and location. Amongst other things, this allows them to create desirable working conditions that
+their community decides – through persistent investment of their time and talent – to be the
+right thing. These conditions prove to be non-threatening and desirable beyond that organization.
+
+After the conversation with David, Hana, the administrative director and archivist, led me outside
+through a fire escape back door, onwards between two Airstream trailers, and into a space that
+houses a workshop, office, and eclectic archive. She pointed out many articles and stories that

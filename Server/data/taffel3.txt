@@ -1,0 +1,384 @@
+Early versions of an internet-derived economy of attention are found in
+the works of Michael Goldhaber  and Georg Franck , whose
+work productively identifies the limits of the discourse of informational
+abundance, but who argue that information technology will generate an
+economy of attention which is wholly removed from material production
+and scarcity. Such claims that an economy of attention leads towards a
+post-industrial model of cognitive capitalism fail to recognize the complex
+material processes which underpin computational capitalism. Franck
+accordingly argues that the dematerialized economy of attention is ‘an
+already practically experienced preliminary stage of future ecologically non-
+harmful lifestyles’, assuming that telecommunications networks have no
+harmful material impacts. Whereas various deleterious impacts pertaining
+to digital hardware are explored in detail in Chapter 5, at this juncture it
+is worth signalling that many theorists of the attention economy conflate
+computational assemblages with immateriality, before moving on to consider
+how digital economies of attention are argued to affect what Guattari and
+Bateson refer to as mental ecologies.
+    Franco Berardi’s work in this area centres upon the discrepancy between
+a ‘cyberspace’ which often appears limitless because of the exponential
+increases in computational processing power, storage and bandwidth over
+the past thirty years, and a ‘cybertime’ whereby the organic machinery
+underpinning the lived experience of temporality – the human brain and
+body – is unable to match these increases in speed.
+
+     The acceleration of information exchange has produced and is producing
+     an effect of a pathological type on the individual human mind and
+  
+
+
+  even more on the collective mind. Individuals are not in a position to
+  consciously process the immense and always growing mass of information
+  that enters their computers, their cell phones, their television screens,
+  their electronic diaries and their heads. However, it seems indispensable
+  to follow, recognize, evaluate, process all this information if you want to
+  be efficient, competitive, victorious’. (Berardi b: 40)
+
+The pressure on the human elements of the assemblage to keep pace with
+the accelerated rate of technological change presents itself via socially
+undesirable behaviours and increases in anxiety and mental health issues.
+This is primarily attributed to human attention becoming increasingly
+occupied by a range of competing corporate platforms and devices who
+use a wealth of personal data to provide individualized and quantifiable
+media experiences, rather than spending time building unquantifiable
+relationships with other humans which go beyond clicking ‘like’ or sharing
+emoji or GIFs.
+    Along similar lines, N. Katherine Hayles has argued that the
+contemporary technocultural milieu has produced a shift in cognitive
+modes, away from the deep and sustained attention which was dominant
+throughout the nineteenth and twentieth centuries, and towards a form of
+hyper attention which is characterized by having attention split between
+multiple forms of simultaneous mediated communications, such as playing
+a videogame while listening to music or web browsing on a tablet while
+watching television. Drawing upon work which examines processes of
+synaptogenesis and neuroplasticity, whose conclusions resonate with
+her earlier writing on posthumanism which contends that technical
+environments co-produce human subjects, Hayles  92) makes
+the case that humans growing up in contemporary media rich cultures
+‘literally have brains wired differently from those of people who did not
+come to maturity under that condition’.
+    This diminished capacity of young people to engage in a sustained manner
+with a single text demarcates an issue which challenges the central mode of
+learning within traditional academic contexts that valorize deep attention.
+Hayles goes on to explore the correlation between the technocultural mode
+of hyper attention associated with digital media cultures and the rise in
+attention deficit hyperactivity disorder (AD/HD), contending that the shift
+towards a more fragmented and stimulated mode of attention has led to
+a dysfunctional society in which ‘compensatory tactics are employed
+to retain the benefits of deep attention through the artificial means of
+chemical intervention in cortical functioning’ (Hayles  92) through
+the widespread prescription of pharmaceutical drugs such as Ritalin and
+Dexedrine.
+    Although Hayles does present some nuance within her argument,
+emphasizing that her model of cognitive modes must be understood as a
+9
+
+
+spectrum in which the contemporary technocultural milieu enacts a shift
+in the mean towards hyper attention, rather than a straightforward change
+between modes, her model is still somewhat simplistic, especially in its claims
+surrounding AD/HD. Whereas the diagnosis of these disorders arise out
+of a complex and multifaceted situation whereby a biopolitical paradigm
+permits particular modes of culturally coded and regulated behaviours in
+public spaces and increasingly disciplines bodies which breach these codes
+through biochemical intervention, Hayles largely reduces this system to a
+single technical factor – time spent with media by youths. This is not to
+say that the type of hyper-stimulation and regular neurochemical rewards
+associated with videogames, social media and other modes of digital
+technology do not promote particular processes of synaptogenesis which
+condition modes of attention but that to treat this as the only or main cause
+of rising AD/HD rates without considering the wider cultural ecologies in
+which the technologies are a part is to succumb to a technocentric ideology.
+   Claiming that young people today have brains which are wired
+differently to previous generations contains some truth, in that a different
+environment will engage plastic neurological systems in different processes
+of synaptogenesis; however, Hayles suggests that this plastic and dynamic
+process is far more solid and static than the neurological evidence suggests.
+The metaphor which asks us to consider neural pathways through the
+prism and engineering promotes the notion that once young brains begin
+developing in tandem with particular technologies they are destined to
+always function that way. The trope of neuroplasticity counterintuitively
+becomes a way of positing a hardwired subject which is the opposite of a
+plastic and malleable one.
+   A very different way of understanding the type of multitasking which
+Hayles negatively characterizes as hyper attention can be found in Stuart
+Moulthrop’s work surrounding gaming, play and configuration. While
+being broadly critical of the zero-sum violence-driven win/lose paradigm
+exemplified by the first-person shooter, Moulthrop argues that as a systems-
+modelling medium which allows for playful and experimental encounters
+with complex dynamical rule-based systems, gaming can provide a useful
+way of understanding contemporary life:
+
+     Games – computer games in particular – appeal because they are
+     configurative systems within continuous loops of intervention,
+     observation and response. Interest in such activities grows as more people
+     exchange e-mail, build weblogs, engage in chat and instant messaging,
+     and trade media files through peer to peer networks. As in various sorts
+     of gaming, these are all in some degree configurative practices, involving
+     manipulation of dynamical systems that develop in unpredictable or
+     emergent ways. (Moulthrop  3/64)
+  
+
+
+Within game studies, similar observations have been made surrounding the
+tendency within competitive online games such as World of Warcraft or
+League of Legends for participants to form ‘cross functional teams’ (Gee
+ 3), where each individual player is required to have deep knowledge
+of a particular specialism but must additionally comprehend the importance
+of other roles and how these roles interact with the rule system governing
+the game.
+    This mode of configurative systems awareness is proposed by some within
+game studies (e.g. McGonigal .as providing a way of grasping twenty-
+first-century ecological and biopolitical problematics, such as understanding
+the complex dynamics of long-term climatic change, short-term climatic
+variability and the collective and individual agencies of humans to intervene
+in such systems. In contrast to the primarily negative view of hyper attention
+espoused by Hayles and Berardi, whereby information overload leads to
+collective depression, Moulthrop, McGonigal and Gee posit that engaging
+with interactive systems can productively model the kinds of complex
+dynamical systems that are encountered within the pervasive media culture
+of the network society.
+    Situating technology as pharmacological and invoking the logic of
+the AND productively emphasize that the modes of attention fostered
+by networked digital technoculture are not simply the path to collective
+panic, depression and an inability to maintain focus or the means towards
+an enlightened mode of engagement with complex dynamical systems.
+Elements of both perspectives are present in contemporary culture which
+precludes arriving at a straightforward value judgement. Indeed, doing so
+risks the type of ideological mystification which misidentifies qualities of the
+entire complex technocultural assemblage with those of a particular part, in
+this case that of informational overload or ecologically aware configurative
+practices. However, highlighting technology as poison and cure does not
+mean that it is applied each way in equal measure, nor does it mean that
+the technology is a neutral canvas upon which human agency and action
+inscribes itself.
+    Configurative or systemic awareness does not inevitably lead to ecologically
+motivated interventions. As William Connolly  demonstrates, in the
+contemporary political and economic context, financial markets are the
+self-organizing dynamical system to which certain modes of attention are
+most often paid. While the type of systems-modelling behaviour outlined
+by Moulthrop and Gee may be useful in grasping the salient features and
+probable impacts of climate change alongside the potential for human
+agencies to affect its impacts, the same form of configurative knowledge
+is leveraged by industries whose goal is manipulating dynamic financial
+systems, whose inherent riskiness and focus upon short-term profitability
+was examined during Chapter 1. Knowledge of dynamical systems does
+9
+
+
+not inexorably lead towards ecological action; indeed, exploiting systems
+for short-term benefit while increasing systemic risk leads towards an
+inattentiveness to larger-scale biopolitical issues such as climate change due
+to a myopic focus on the present.
+   Consequently, it is useful to consider the current debates surrounding
+economies of attention via the ethological politics of speed in digital
+capitalism. In the previous chapter, we saw how climate change is not the
+anthropogenic alteration of a static biosphere but involves accelerating
+the pace of change far beyond the adaptive capacities of other biotic
+systems. Another way of framing Berardi’s concerns about the discrepancy
+between cyberspace and cybertime is via an analogous concern about
+rates of change, whereby the epiphylogenetic technological ecology
+in which humans are located is currently undergoing a pace of change
+which results in long-term thinking and forms of collective care being
+abandoned in favour of dealing with the here and now. From this vantage
+point, the unyielding torrent of digital information associated with the
+attention economy often precludes the type of critical distance necessary
+for achieving the configurative systems awareness outlined by Moulthrop,
+outside of very narrow purposive behaviours such as speculative financial
+trading and viral marketing. For the social media corporations, public
+relations agencies and online advertisers who seek to leverage information,
+attention and data, the emphasis is upon obtaining quantifiable attention
+and data through hits, clicks and likes, not on promoting systemic
+understanding. It is precisely this drive towards the commodification and
+quantification of attention driven by the need for immediate financial
+returns which leads towards dissociated milieus, where an ethic of
+social and ecological care breaks down in favour of a systemically blind
+short-termism.
+
+
+
+      Understanding content through Big Data
+One highly prominent way of addressing the scale of digital content is the
+lens of Big Data. Precise definitions of what does or does not constitute
+Big Data are themselves contested, as it is not simply the size or volume
+of data that is in question; indeed, if it were, then, centuries-old datasets
+such as national censuses would likely count as Big Data. Instead, Big
+Data refers to the ability of large-scale computationally stored datasets to
+be algorithmically searched, flexibly combined with other datasets due to
+their common mathematical representation, and to be dynamically updated,
+often in real time, unlike relatively static datasets such as a national census
+which are typically only updated once per decade.
+  
+
+
+  One of the most comprehensive attempts at mapping the salient
+characteristics of Big Data is found in Rob Kitchin’s The Data Revolution,
+which argues that Big Data are
+  ●   huge in volume, consisting of terabytes or petabytes of data;
+  ●   high in velocity, being created in or near real time;
+  ●   diverse in variety in type, being structured and unstructured in
+      nature, and often temporally and spatially referenced;
+  ●   exhaustive in scope, striving to capture entire populations or
+      systems (n = all), or at least much larger sample sizes than would be
+      employed in traditional, small data studies;
+  ●   fine-grained in resolution, aiming to be as detailed as possible, and
+      uniquely indexical in identification;
+  ●   relational in nature, containing common fields that enable the
+      conjoining of different datasets;
+  ●   flexible, holding the traits of extensionality (can add new fields
+      easily) and scalable (can expand in size rapidly). (Kitchin  8)
+
+While not all Big Datasets adhere to all of these attributes, they provide
+a useful series of criteria for understanding how Big Data departs from
+previous forms and may provide a means for identifying specific types of
+Big Data which are predicated on some or other of these criteria.
+   Big Data has generated a huge amount of excitement within sectors ranging
+from sport to surveillance, commerce to academia, with enthusiastic claims
+that Big Data produces ‘profound change at the levels of epistemology and
+ethics. Big Data reframes key questions about the constitution of knowledge,
+the processes of research, how we should engage with information, and
+the nature and the categorization of reality’ (boyd and Crawford :
+ ). By enabling the collation and algorithmic interrogation of enormous,
+real-time datasets drawn from user-generated materials on social media,
+geo-locational data from cellular devices and Wi-Fi networks, IP address
+tracking, browser cookies, transactional data and other forms of digitally
+encoded information, researchers, businesses, governments and activists
+have access to new forms of information, which open up novel avenues for
+investigating sociocultural phenomena.
+   One way of approaching Big Data and associated data analytics are as
+a means to explore the ecology of content at a scale which was previously
+problematic for humanities or social science research: obtaining qualitative
+datasets requires time-intensive processes such as interviews, focus groups,
+ethnography or participant observation, where temporal constraints
+generally preclude studying large groups. Equally, quantitative methods
+tended to mobilize surveys and questionnaires whose scope and reach was
+9
+
+
+still relatively limited compared to many forms of Big Data, and which
+could not capture the degree of detail and long-term engagements implicit
+in the systems used by entities such as Facebook and Google. Data analytics
+present ways of conducting macro-scale research into these areas, where
+the posthuman assemblage of algorithms, data analysts, cookies, computers,
+programmers and other agents allows research to be conducted using vast
+quantities of data that were not made tangible and searchable by previous
+technocultural milieus.
+    Indeed, there have been notable claims that Big Data heralds a paradigm
+shift in the sciences, social sciences and humanities, effectively rendering old
+methodologies and practices of deductive analysis obsolete. Chris Anderson
+ ), a former editor of Wired magazine, vehemently argues,
+
+     Massive amounts of data and applied mathematics replace every other
+     tool that might be brought to bear. Out with every theory of human
+     behaviour, from linguistics to sociology. Forget taxonomy, ontology, and
+     psychology. Who knows why people do what they do? The point is they
+     do it, and we can track and measure it with unprecedented fidelity. With
+     enough data, the numbers speak for themselves. … The new availability
+     of huge amounts of data, along with the statistical tools to crunch
+     these numbers, offers a whole new way of understanding the world.
+     Correlation supersedes causation, and science can advance even without
+     coherent models, unified theories, or really any mechanistic explanation
+     at all. There’s no reason to cling to our old ways. It’s time to ask: What
+     can science learn from Google?
+
+From this perspective, the wealth of empirical data which can now be gleaned
+from Big Data entails that there is no longer any need for theorization,
+modelling or the formulation of hypotheses, as empirical data can simply
+speak for itself in an entirely neutral way, free from the ideologies, biases
+and framings which are introduced by traditional research methods. Such an
+empirically guided epistemology closely approximates the straightforward
+positivisms of the past, but contends that Big Data allows areas of
+investigation which were previously impossible to apply objective, evidence-
+based inquiry towards, namely the humanities and social sciences can now
+escape the shackles of subjectivism and ideology. As Bruno Latour  :
+   muses, ‘Numbers, numbers, numbers. Sociology has been obsessed by
+the goal of becoming a quantitative science. Yet it has never been able to
+reach this goal.’ According to Anderson the new empiricism afforded by Big
+Data makes this transition possible.
+   However, if we subject these claims to scrutiny, there are serious flaws
+inherent to claims that Big Data presents neutral, objective facts which require
+no interpretation. To help focus upon why these claims are problematic, let
+us look at an example of leveraging data using Google Trends, a free online
+  
+
+
+tool which allows users to compare and contrast the relative popularity of
+search terms which have been input into Google’s search engine.8 Within
+Google Trends, I input the search terms ‘Climate Change’, an issue which
+is frequently referred to as one of the greatest challenges and threats facing
+humanity in the twenty-first century; ‘X Factor’, a popular reality television
+show which originated in the United Kingdom and which has franchises
+on every continent; and ‘Dota 2’, a popular multiplayer online battle arena
+videogame. In plotting the popularity of these terms, Trends produces the
+graph in   
+    Simply presenting the data does little to analyse the relationships between
+the terms, let alone to contextualize how the data analytic tool itself impacts
+upon the results and interpretative frameworks we apply to them. What is
+most instantly obvious from the data is that ‘Climate Change’ is a relatively
+unpopular search term compared to ‘X Factor’ and ‘Dota 2’, with the overall
+
+
+
+
+FIGURE 3.1 Google Trends data for ‘Climate Change’, ‘X Factor’, ‘Dota 2’,
+January –15.
+Data source: Google Trends (https://www.google.com/trends).
+
+
+
+8
+ Trends also presents data for related search terms and delineates the most popular regions
+for each term which is used. Google Trends is just one of the many Google-run data analytics
+and visualization tools which include Google Analytics (a tool for analysing traffic and
+audiences for specific websites you maintain), Google Correlate (which allows users to explore
+relationships between terms), Ngram Viewer (which plots the popularity of specific phrases
+within a database of books) and Google Public Data (which displays visualizations from
+publicly available datasets from agencies such as the World Bank and United Nations).
+9
+
+
+averages indicating that ‘Dota 2’ is twice as popular as ‘Climate Change’
+as a search term, whereas ‘X Factor’ is four times as popular as ‘Climate
+Change’ over the decade-long period covered.
+   The interest over time for ‘Climate Change’ as a search term is relatively
+stable, with small upward rises in , which correspond with the
+publication of the Intergovernmental Panel on Climate Change’s fourth
+assessment report, and in December , which correlate with the onset of
+controversy surrounding hacked emails from climate scientists working at
+the Climatic Research Unit (see later in this chapter). This contrasts starkly
+with ‘X Factor’, which has an annual spike in popularity which coincides
+with the broadcast of the series in the United Kingdom and the United States
+each year. After the series finishes, the term’s popularity declines drastically,
+and from to , the trough in the off season falls below the popularity
+levels of ‘Climate Change’. ‘X Factor’ peaked overall in terms of popularity
+in and has seen popularity levels fall by over per cent from 
+to , partially due to X factor USA not being renewed after . Dota
+2, on the other hand, has virtually no presence until mid- , when the
+game was first unveiled during the annual Gamescom trade fair. Following
+an initial spike, Dota 2’s popularity steadily builds, with small spikes in
+popularity in July , which coincides with the game’s official launch, and
+July , during The International, the Dota e-sports tournament, whose
+winners took home over US$5 million in prize money, making it the then
+highest paying e-sports tournament.
+   Our first look at the data may generate somewhat concerning hypotheses;
+does this suggest that humanity is more interested in videogames and reality
+television than climate change? Have attention spans dwindled to the point
+where the long-term threats posed by climate change become impossible
+to grasp by consumers immersed in a hyper-stimulated corporate culture
+industry? Or can we posit other plausible explanations, such as Dota 2’s
+popularity as an online search term reflecting the fact that other information
+sources such as television news, newspapers and radio are considerably less
+likely to devote coverage to tactics and strategies for a videogame than
+exploring news stories pertaining to climate change? Such an argument,
+however, probably does not extend to the X Factor, which does generate a
+significant volume of broadcast and print media coverage, especially leading
+up to the show’s finale each year. In this case, we might begin to think about
+different types of new stories with regard to duration, and particularly the
+fact that in a media culture which tends to sensationalize and scandalize
+specific events (Castells  40–50), an ongoing issue like climate change
+struggles to remain visible, unlike the periodic interest generated by specific
+and spectacular events such as the annual X Factor finale.
+   Whether we are considering what the Google Trends data might mean,
+or how the trends vary over time, interpretation is required alongside a
+process of correlating various events with the changes evidenced within the
+  

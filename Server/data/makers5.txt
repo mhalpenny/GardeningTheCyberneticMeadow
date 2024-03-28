@@ -1,0 +1,360 @@
+
+Unmaking an archaeosphere, through these micro-trajectories, points to its materiality.
+From formation through to erosion and extraction, the material flow of sand unfolds itself.
+Its becoming is mediated through geological and human forces alike. Sand acts as a fluid
+medium. It is always flowing, until something prevents it from doing so. At that moment
+it crystallizes out as land, as buildings, as microchips – depending on the form that its
+composition takes and the role that modern infrastructures play. In its different formations,
+sand is constitutive of human life: the land we live on, the houses we dwell in, the digital
+infrastructures we rely on. The difference between a sand grain originating from the desert
+or the sea can only be observed through a microscope. Whereas erosion and segregation
+in rivers lead to irregular movement and thus an irregular shape, sand steadily moved by
+wind features a round shape. This round sand is considered useless for further industrial
+processing. Material value here is measured by economic value. Such measurements do
+not take into account the price of losing one's home, a habitat, or an ecosystem. Mining
+frequently causes ground subsidence, which in turn causes flooding, which eventually
+causes the disappearance of entire areas of land.
+
+What becomes apparent when walking through the sand mines in Luzon and ending up
+in a white lab in Singapore are the asymmetries and limitations inherent in all making.
+The unmaking of design, whether a microchip, a brick, a building, or an island – all
+
+
+
+human-made infrastructures – reveals what design covers up. The hidden infrastructures
+of extraction that keep sand in flow are brought to the foreground. Once they are made
+into a microchip, sand is forever short-circuited from its return to the riverbed. In enacting
+its potential for electronic processing, sand’s original territory of an island is erased, soon
+disappearing altogether.
+
+
+
+
+
+Grafoscopio
+
+Collaborative coding practices are an unmaking, a specific instance of descriptive yet
+productive deconstruction. For the purposes of analytical reconstitution, a group at the
+Critical Media Lab Basel seeks to open an investigation, one made possible by a coded
+script that accesses and evaluates data in the context of a software toolset for research.
+Potential applications include data journalism and the Digital Humanities. In contrast to
+the first exploration on additive design and D printing, where material aspects and the
+sociotechnical are hidden, here software is designed to reveal and unmake the digital
+environment it is built within and relies upon. This software toolset, called Grafoscopio
+(GS), is being developed at the Colombian hackerspace HackBo, which is located in the
+city of Bogotá. The space was founded in the year  as a membership-based collec-
+tive to foster engagement with a variety of technocultural matters such as DIY hardware
+projects, tinkering with Arduino, open source software projects, science and math, as
+well as internet activism. GS is conceived and coordinated by design researcher Offray
+Vladimir Luna Cárdenas and is:
+
+     a moldable tool for interactive documentation and data visualization, that is being
+     used in citizen, garage  open science, reproducible research, (h)ac(k)tivism,
+     open  community innovation, domain specific visualization and data journal-
+     ism, and has a lot of other potential uses. [...] Grafoscopio integrates simple and
+                       MATTER THAT MATTERS: MATERIAL ENGAGEMENTS WITH A CAUSE                  
+
+
+
+
+     self-contained 'pocket infrastructures' that can be executed on/off-line from a
+     USB thumb drive, a Raspberry Pi-like computer, a modest server, or any hard-
+     ware in between and beyond.
+
+Grafoscopio is at once a note-taking application, a publishing suite, and an interactive tool
+for data exploration and visualization. It runs within the Pharo Smalltalk environment, an
+integrated operating system, development environment, and programming language. Similar
+to Oracle's Java, it can be executed on any hardware and in any operating system. Pharo
+Smalltalk is itself a community-based open source project and a contemporary incarnation of
+the historic programming language Smalltalk-, developed in  by Alan Kay, Dan Ingalls,
+and Adele Goldberg. GS derives its versatility mainly from its technological functionality. Like
+its more prominent relative, the Jupyter Notebook, it is possible to write and execute code
+within documents edited in GS. By providing this functionality, the hands of users such as jour-
+nalists or academics are extended towards epistemic practices and techniques of unmaking.
+The software's functionality and basic Pharo Smalltalk coding skills can be learned through
+tutorials within the environment itself. However, the main way to get involved with GS is Data
+Week, a workshop format cultivating the development and use of GS.
+
+
+
+
+
+While Luna Cárdenas is the main driver behind GS and has done the bulk of its programming
+himself, he regularly hosts Data Weeks at HackBo to introduce people to the environment
+and develop it further. Data Week sessions take up civic concerns in the context of Open
+
+
+
+Data and internet activism, that is, orientations toward legislative action and governmental
+campaigns on digital or environmental issues. Participants include software engineers as well
+as journalists and academics. One example of a basic critical exercise deployed within this
+format is the Data Selfie. Participants learn to call up data from Twitter profiles of themselves
+as well as politicians through the Twitter API and render so called Data Selfies – visualizing
+the quantitative relations between the tweets, retweets, and replies a profile has accumulated.
+
+During these Data Weeks, the collaborative coding and making of a digital infrastructure
+enabled its users to practice an extended form of unmaking – deconstructing or analyzing
+as well as re-presenting, for instance, political rhetoric and stances. Data Selfies of some
+politicians, for example, revealed evidence of the unidirectionality of their communication
+on social media. This practice or set of practices characteristically combined the opening
+up of technological platforms, the cultivation of basic coding skills, the promotion of a
+rather quantitative data analysis approach (including visualization with a critical civic
+concern), the connection to political discourse, and community building. Collaborative
+coding, then, might also be a form of unmaking of knowledge hierarchies. Collectively,
+participants learn to break down the technological barriers of access to infrastructure and
+information, removing the hurdles faced by those not professionally trained in a techno-
+logical field. Ultimately, such a modulation of practices by hacking might be an unmaking
+of these professional practices themselves, one that, in turn, reconfigures what it means
+to conduct journalistic or academic investigations.
+
+Acknowledging the necessary context-specificity of unmaking, GS figures as a moldable
+tool that can be altered and adapted by its users. While it doesn't deploy glitches or subvert
+the logic of programming languages, like some of the examples of 'queer computing' in
+Jacob Gaboury's critical unmaking paper, this specific version of unmaking might nonethe-
+less fulfill the requirements he formulates for such a practice: 'It would appear that queer
+computation cannot simply offer an antinormative critique of digital media. Instead, it must
+offer a reframing of the goals, drives, and interests of these media as technologies in which
+queerness is necessarily situated'. Developing and deploying GS as a critical, subversive
+tool in social and political contexts contributes to establishing a somewhat antinormative
+approach to digital media and endows its users with the abilities to further understand and
+possibly unmake their basic protocols and formats.
+
+Unmaking Making
+
+Making has strong connotations of expansion and exploration, as well as reflection. Philos-
+opher and urban planner Donald Schön's monograph The Reflective Practitioner is a text of
+high relevance for makers and their cultures. Schön questions how action and reflection
+could ever be separated. Thinking and making constitute contiguously iterative loops of
+perception and proprioception, activation and reactivation, immersion and reflection. For
+
+
+
+
+
+all our talk of 'theory and practice', we have little practical evidence or substantial reason to
+separate these things. More specifically, to understand the relationship between applicability
+and context dependency in making, it is necessary to look at the various levels of abstraction
+that are activated, and at the constellations which emerge in thinking and making processes.
+
+The main function of abstraction is to extract, but also to distance something from concrete
+experience and context. Abstraction is a strategy to enable easier manipulation, faster referencing,
+and finally general applicability in the sense of synthesizing theories that are applicable to a wider
+range to situations. Making, on the other hand, is an utterly bodily and affective activity,
+a close engagement with very concrete materials and environments. Making is an arguably less
+abstract affair than, for example, thinking in mental imagery or allegory.
+
+In dance, rehearsing choreography without carrying out every movement is more abstract than
+a final dance performance in front of an audience. Movements are carried out at a level of high
+abstraction when a dancer is sitting in the subway, on the way to a rehearsal, or going through the
+choreography with eyes closed. Even here, tiny micro-movements of the body are (re)enacted, a
+disposition to carry out future movement. The bodily reenactment of the choreography is carried
+out on different levels of mental-physical abstraction, and the resemblance between these is
+maintained throughout scale. The dancer might think of these physico-mental run-throughs as
+instances of the same choreography, as David Kirsch writes.
+
+According to theories of embodied cognition, the minimal or dispositional reenactment of past
+experiences are like the exercises of a dancer. We recall what we know – this is thinking with
+concepts. Alva Noë understands conceptual deliberation as abstract reenactment, a reproduction
+of past experience drawing upon a constellation of mental images, words, artifacts, and bodily
+movement. Reenactments can be triggered internally as well as externally, and can manifest
+themselves in the production of things internally or externally. The empiricist philosopher Henry
+H. Price illustrates the principle of how these activations happen:
+
+     [...] the 'activating' of any mental disposition is a matter of degree. Between the two
+     extremes – complete latency and complete actualization – there are many interme-
+     diate degrees of sub-activation. When the word 'cat' occurs, or a cat-like image, a
+     whole series of concepts linked in one way or another with the concept cat may be in
+     some degree brought to mind. It is true of me at all times that I am capable of recog-
+     nizing mice, bowls of milk, fur, tigers, mammals, hearth-rugs, at any rate [...]. At all
+     times I have memories of what all these diverse entities are like (in the dispositional
+     sense of the word 'memory'). But if the word 'cat' occurs to my mind – or a cat-im-
+     age or a physical cat-replica – then something comes to be true of me which is not
+
+
+     true at all times. All these diverse memory-dispositions are to some degree excited
+     or sub-activated. I am put into a state of readiness to recognize mice, bowls of milk,
+     tigers, etc., if I should happen to perceive them; and also in a state of readiness to
+     talk of such entities or produce images of them. I am ready to do these things, even
+     though I do not actually do any of them.
+
+Price goes on to explain how producing and iterating on drawings and clay models varies in
+sketchiness or elaborateness, depending on how much knowledge we possess about that
+thing, or how much we are able to formulate the relevant details during this process. Notably,
+what we reenact during creative processes may vary in temporal and spatial scale. Parts of
+objects can be reenacted as well as whole objects (which are parts of other objects themselves).
+
+
+
+
+ing of the bottom-up organization of house-keeping by members of a housing co-operative by
+combining things and tools (materiality) with words, figures and lines (abstraction), .
+
+In processes which emphasize making – rather than thinking – the maker is working
+with less abstract, cognitively heavier things, more embedded in a context and the
+circumstances of the process. The maker of a D-printed model of an island needs to
+have more detail than the creation of a mental image or a pencil drawing. The maker
+also has to be concerned with the qualities of the D printer's filament, the qualities
+of the tools, and the infrastructures being used. When making an island by pumping
+sand into the sea, more consideration must be given to the environmental context, the
+
+
+
+
+
+architecture and activities that will populate the island. As the materiality of the things
+increases, the time and effort we need to invest to manipulate these things will change
+drastically. Concomitantly, possibilities for embodied interaction increase, as meaningful
+interaction within a context and a surroundings, in the form of a richness of detail. As
+materiality increases, we lose abstraction, mobility, and general applicability.
+
+A Non-conclusive Conclusion
+
+These examples provide us with a fractal, splintered picture of making, unmaking, and
+related thinking and practices. New insights and designs emerge as weak links and faint
+activations in the making process. This is where the maker feels that something is not
+right with the picture or something might be missing. Our fingers itch to change a line,
+our eyes squint in an effort to refocus, things are rearranged to ease the tension. Past
+experiences of the maker guide our focus to various features of the material, the possi-
+bilities of the tools, and the affordances of the maker-in-space. New constellations like
+additive design trigger mental images or inspire sketches on paper – aspects co-activate
+each other by constantly rearranging the actual constellation of things. Here, implicit
+embodied knowledge, at the peripheries of our attentions, is pulled in and find its sat-
+isfactory place, setups in which makers find coherence between what they know about
+the world and what they anticipate. Tools, materials involved in the making process, and
+the space in which the making takes place – all these may differ in scale, but their power
+to activate and promote elements of these constellations are the same. Each project or
+project phase, framed as making or unmaking, locates itself somewhere on a continuum
+between contextualized and abstract, functionalization and curiosity, done for use or
+done out of 'pure' interest. In this, we resist the general characterization of these acts
+as 'making' or 'unmaking' and instead understand the heterogeneity of both as instan-
+tiated in each and every project or moment of engagement with and through materiality.
+
+Schön, Donald. The Reflective Practitioner: How Professionals Think In Action, London: Temple Smith, .
+Stein, Jesse Adams. 'The Political Imaginaries of D Printing: Prompting Mainstream Awareness
+Stengers, Isabelle. Cosmopolitics I: The Science Wars, trans. Robert Bononno, Minneapolis:
+University of Minnesota Press, .
+Umweltbundesamt (ed.) Die Zukunft im Blick: D-Druck: Trendbericht zur Abschätzung der
+Umweltwirkungen, Dessau-Roßlau: Umweltbundesamt, , https://www.umweltbundesamt.de/
+sites/default/files/medien//publikationen/fachbroschuere_d_barrierefrei_.pdf.
+    MATTER THAT MATTERS: MATERIAL ENGAGEMENTS WITH A CAUSE   
+
+
+
+
+     Drawing on
+  Theory to Build/
+ Unbuild Media, or
+Lalalalalalalalala
+
+   xtine burrough
+          <>
+   Lucy HG Solomon
+
+     DRAWING ON THEORY TO BUILD_UNBUILD MEDIA,
+              OR LALALALALALALALALA
+
+                       XTINE BURROUGH <> LUCY HG SOLOMON
+
+On Nov , , at : PM, xtine burrough wrote:
+
+Hey Lucy,
+
+I was looking at this call and thought about a dialog with you – are you in?
+
+xxxooo
+
+
+
+On Nov , , at : AM, Lucy HG Solomon wrote:
+
+Hallo!
+
+Yes, let's unbuild media! I've been thinking about my own sense of craft as part of techno-
+logical building and thinking across networks. Each of our collaborations is built around a
+shared practice that is feminist in its core structure, involving a sharing of credit, a sharing of
+technologies, and a rethinking of how we work with(in) technology. Before us came women
+technologists/artists who did not get big salaries at companies and weren't proclaimed art
+stars like their male counterparts. They became educators and connectors.
+
+We both critique capitalist systems through making – yours via usurping the existing system
+of digital workers (mapping microorganisms and using nature’s logic to determine socioeconomic actions (with
+Cesar Baio, as Cesar  Lois), plus LOIS’ last project on squirrel gentrification that talks about
+economic issues in areas of urban sprawl, are also connected with technology’s relationship
+to society (
+Those are my first thoughts!
+
+Lucy
+
+
+
+
+
+
+
+Connections at the Dallas Museum of Art, -.
+
+
+
+
+economic dynamics of a city's neighborhoods are both the variables for microbiological growth
+and the organizing factor for sharing food (left to right: Stanford, Los Angeles, Durban), .
+
+
+
+On Nov , , at : AM, xtine burrough wrote:
+
+Hi Lucy,
+
+Has your electricity been turned on yet? I’m so impressed you are working and writing while living
+through those great Santa Ana winds. You are a true pioneer woman!
+
+My first techno-mentor was my father, a programmer for the NY Department of Transportation
+in the s. He taught me Basic on a TRS- when I was eight. I think that was important for
+my understanding of how to be with technology: unafraid and experimental.
+
+Many of my collaborations are with non-artists. I like being the artist/producer in the relationship.
+
+For the artist, there is much to be gained from working with others outside our discipline, from
+areas of expertise they bring to the conceptual development of the project to the practical
+details. How do you prioritize some of these collaborative nuances?
+
+Hugs,
+
+xtine
+
+
+
+
+of the Exit Signs, is one of the first projects developed in LabSynthE for Central Trak, .
+
+
+
+
+On Nov , , at : PM, Lucy HG Solomon wrote:
+
+Dear x,
+
+I sometimes really do feel like a pioneer woman, with the birds and horse and this land, but also
+an interloper in someone else's land – historically speaking. In another sense, we are both pio-
+neering technologies. My women mentors showed me that you can carve new paths in technology
+in a human-centered way. Your father's legacy marks the normalization of making with technology.
+
+What does it mean to be making art, poised as we are not just in the Capitalocene, but in the
+technologically saturated time of now? When you ask about shared practices, is that solely an
+aspect of making in this digital time, where the sharing of information is at the basis for most
+transactions? Networked transactions, cloud computing – our mechanisms incorporate a sharing
+                        MATTER THAT MATTERS: MATERIAL ENGAGEMENTS WITH A CAUSE                            
+
+
+
+
+of technological entities. With Cesar  Lois, we share authorship across the network, with human
+actors and nature-based entities, prompting collaborations with labs and scientific researchers
+(you discuss, the division of the labor within the collective, becomes even murkier when we
+depend upon input from a nonhuman living organism, one whose authorship is unintentional.
+
+Your work intersects with this as your collaborators are often 'invisible' and unvoiced, in
+certain ways, although perhaps your work is about manifesting those hidden voices, pro-
+viding that channel? I am thinking of the digital labor workforce as well as the unnamed
+women in history. In my work, nature is what becomes divorced from the human reality
+through the technological interface.

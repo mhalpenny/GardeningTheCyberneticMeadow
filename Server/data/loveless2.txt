@@ -1,0 +1,477 @@
+
+I C O U L D N E V E R H A V E written this book without having had the immense
+privilege of a tenure-­track and now tenured position in the Department
+of Art and Design at the University of Alberta. The department has a long
+and important history. It was, for example, the first program in Canada to
+offer a Master of Visual Arts (established in ), when the bfa was still
+the reigning terminal degree. Here in Art and Design, I find myself in an
+open-­minded, creative, forward-­thinking place, filled with generous col-
+leagues who have supported me in developing my research-­creational vi-
+sion on the ground, testing and playing with research-­creationalizing my
+courses in the History of Art, Design, and Visual Culture, and, through
+this, learning what works, what doesn’t, and what is possible given the
+larger constraints of the twenty-­fi rst-­century university.
+   I would like to start, then, by acknowledging my colleagues in Art and
+Design who, through conversation and debate, have contributed to the
+thinking in these pages and to my well-­being in the department, some in
+large ways and some perhaps without even realizing it: Tim Antoniuk,
+Allen Ball, Kathleen Berto, Betsy Boone, Sean Caulfield, Lisa Claypool,
+Sue Colberg, Walter Davis, Cezary Gajewski, Joan Greer, Tanya Harnett,
+Steven Harris, Gillian Harvey, Liz Ingram, Rob Lederer, Dawn McLean,
+Lianne McTavish, Marilène Oliver, Gavin Renwick, Aidan Rowe, Stan
+Szynkowski, Jesse Thomas, and Caitlin Wells. Thank you to each and
+every one of you for contributing to the vibrancy of the department I call
+home.
+   This book was also made possible by fierce, feminist, decolonial col-
+leagues in other departments at the University of Alberta, colleagues who
+make my pedagogical present livable. I am more than lucky to work in
+such an environment, where the number of good colleagues that surround
+me, attuned to social and ecological justice in the classrooms and in the
+hallways, exceeds what I can list here. I learn from them daily and am
+privileged to work among them.
+   On the research-­creational front, I would like to acknowledge those
+involved in the Kule Institute for Advanced Study – funded Research-­
+Creation Working Group, and its subsequent incarnation, the Research-­
+Creation and Social Justice CoLABoratory, for being central to the devel-
+opment of my thinking in these pages. Affectionately called “the CoLAB,”
+the research cluster is comprised of studio leads and allies at the Univer-
+sity of Alberta committed to the critical discourse of research-­creation.
+Thanks are due to: Sean Caulfield, Diane Conrad, Piet Defraeye, Joan
+Greer, Sourayan Mookerjea, Fiona Nicoll, Danielle Peers, Gavin Ren-
+wick, Scott Smallwood, Lin Snelling, Kim TallBear, Sheena Wilson, and
+last but not least, our tireless and indispensable doctoral research fellow
+Jessie Beier.
+   It is out of the very first set of CoLAB events that this book was born.
+In addition to the above, sincere thanks are due to participants in the Feb-
+ruary  Researching Research-­Creation symposium — Fiona Candlin,
+Malcolm Macdonald, Erin Manning, George Smith — and to those in the
+March  Knowings and Knots: Methodologies and Ecologies in Research-­
+Creation think tank. My heartfelt gratitude goes out to presenters: Owen
+Chapman, Paul Couillard, Randy Lee Cutler, Tagny Duff, Caitlin Fisher,
+Glen Lowry, and Natasha Myers; respondents Carolina Cambre, Risa
+Horowitz, Petra Hroch, Sourayan Mookerjea, and Kim Sawchuk; dis-
+cussants Catherine Adams, Piet Defraeye, Geoffrey Rockwell, and Scott
+Smallwood; and to distinguished keynote participant Donna Haraway,
+as well as to student volunteers and assistants Catherine Clune-­Taylor,
+Lindsay Eales, Lindsay Ruth Hunt, Naureen Mumtaz, Ika Peraić, Layal
+Shuman, Emilie St. Hilaire, Michael J. H. Woolley.
+   After the initial inspiration emerging from these events, the real work
+
+
+x Acknowledgments
+of writing and rewriting began. The following friends and colleagues each,
+at one or many key moments in the process, read some or all of these pages,
+offering indispensable insights and suggestions: Owen Chapman, Paul
+Couillard, Dia Da Costa, Caitlin Fisher, Laura Gonzalez, Cressida Heyes,
+Jan Jagodzinski, Lucian O’Connor, Alissa Overend, Carrie Smith, George
+Smith, Chloë Taylor, Terri Tomsky, Rob Trumbull, and Sheena Wilson.
+In addition to those who generously gave their eyes and minds and hearts
+to reading parts or all of the manuscript, there were others who talked
+through some of its key ideas with me, individually or in the context of
+public presentations. Special thanks to Alex Da Costa, Beatriz da Costa,
+Allison de Fren, Tagny Duff, Andrew Gow, Nat Hurley, Lindsay Kelley,
+Eben Kirksey, Deirdre Logue, Stephanie Loveless, Krista Lynes, Patrick
+Mahon, Erin Manning, Keavy Martin, Jill Miller, Allyson Mitchell, Na-
+tasha Myers, Lissette Olivares, Danielle Peers, Christine Pountney, Maria
+Puig de la Bellacasa, Geoffrey Rockwell, Chris Salter, Alexis Shotwell,
+Scott Smallwood, and Heather Zwicker for conversations and critical
+prompts at various points along the way.
+    Of course, after the writing is “done” there is the next stage of labor.
+Central to getting this book from manuscript to final form were Susan Al-
+bury, Emma Jacobs, Jordan Kinder, Joanne Muzak, and Olivia Polk, who
+edited, found images, midwifed, and otherwise held my hand through the
+nitty gritty of the book preparation. I am also deeply grateful to the anony-
+mous reviewers of my manuscript. They generously saw its heart and aim,
+while pointing out weaknesses in ways that helped to make it better. This
+is the kind of labor that makes the university a rich and rewarding place
+and that needs to be acknowledged much more than it is. From the bot-
+tom of my heart: thank you.
+    Because this is a book about pedagogy as much as it is about art, I
+would like to take the time to name the debt that is due to all those teach-
+ers who were central to my training and who modeled, inspired, or oth-
+erwise prompted the pedagogical perspectives that gave rise to the book.
+At the School of the Museum of Fine Arts, Boston: Marilyn Arsem, S. A.
+Bachman, Fritz Buehner, and Jane Hudson; at Tufts University: Madeline
+Caviness, Lee Edelman, Maura Reilly, and Eric Rosenberg; at the Uni-
+versity of California, Santa Cruz: James Clifford, Angela Davis, Teresa de
+Lauretis, Donna Haraway, Catherine Soussloff, Anna Tsing, and Hayden
+White; at Utrecht University: Rosi Braidotti; and lastly, three teachers
+
+
+       Acknowledgments        xi
+from my childhood: Beverly (Bunny) Blonde (Royal West Academy),
+Sally Berdebes (Fine Arts Core Education), and my earliest (nonfamil-
+ial) teacher, who gave me a pedagogical home when I was lost and taught
+me the love of opaque language, Christine Kierans (the Children’s Shake-
+speare Company).
+    In addition to acknowledging my teachers, I would like to acknowl-
+edge my students. The students in my seminars on research-­creation (and
+my research-­creationally informed seminars!) have been indispensable
+to my thinking on this topic. Without students who teach me, challenge
+me, and inspire me, this book would never have been written. Indeed, the
+work of several of these students is discussed explicitly in these pages; the
+work of others implicitly informs my writing, and I plan for the work of
+still others to inform my writing-­to-­come. While I can’t name all of them,
+I will name those in the special independent study that came out of my
+Art and/in the Anthropocene seminar at a crucial moment in the writing
+process: Jessa Gillespie, Leila Plouffe, Max Turner, and Daniel Walker.
+Thank you for thinking with me, inspiring me, and doing such wonder-
+ful work.
+    Finally, on a personal front, an extra special thanks go out to a few
+folks: Brian Axel, who first introduced me to the university-­as-­site; Ev-
+elyne Lord for teaching me what it means to live an aesthetic life; Rob-
+ert Loveless for nurturing my early intellectual curiosity and rebellion;
+Stephanie Loveless and Christine Pountney for being kin in all the ways
+that matter; Marilyn Arsem, who supported me in the earliest moments of
+my practicetheoretical development, with openness and vision; Lee Edel-
+man, who introduced me to, and nurtured my love of, psychoanalytic the-
+ory and pushed me to grow in unexpected directions; Donna Haraway,
+to whom I owe more, pedagogically, theoretically, and personally, than I
+could ever begin to name but that I attempt, daily, to “pay forward”; Ken
+Wissoker, whose brilliant editorial vision produced many of the books
+that I first fell in love with, and who remained steadfastly committed to
+this project even when I had my doubts; Sheena Wilson, for modeling
+powerful feminist collaborative ethics in the academy and making me be-
+lieve in it again; Alissa Overend for being there with and for me from the
+minute I arrived in Edmonton and Lucian O’Connor, one of my HistCon
+kin and favorite humans, both of whom unwaveringly read draft upon
+draft, talking me through many a struggle and standing with me every
+
+
+
+xii Acknowledgments
+step of the way; and, most importantly, Sha LaBare, my primary partner
+in life, in parenting, and in dreaming up futures that are better enough.
+
+Earlier versions of some of the arguments found in this book are published
+in Natalie S. Loveless, “Reading with Knots: On Jane Gallop’s Anecdotal
+Theory,” S: The Journal of the Jan van Eyck Circle for Lacanian Ideology Cri-
+tique 4 ():. – “Practice in the Flesh of Theory: Art, Research and
+the Fine Arts PhD,” Canadian Journal of Communications no. 1 ():
+. d’art canadienne/Canadian Art Review no. 1 (): 54.
+
+This manuscript was supported with funds from the Social Sciences
+and Humanities Research Council of Canada, the Kule Institute for Ad-
+vanced Study, the Killam Research Fund, and the Canadian First Excel-
+lent Research Fund (cferf) on Future Energy Systems via Just Powers,
+an interdisciplinary research project on feminist and decolonial energy
+transition and futures.
+
+
+
+
+      Acknowledgments        xiii
+We need researchers able to participate in the creation of the responses on which
+the possibility of a future that is not barbaric depends.
+— Isabelle Stengers, In Catastrophic Times, 73
+
+
+The recognition that one cannot know the other or the self, but must ask in re-
+spect for all of time who and what are emerging in a relationship, is the key.
+— Donna Har away, The Companion Species Manifesto, 50
+
+
+To be a teacher is my greatest work of art.
+— Joseph Beuys, Energy Plan for the Western Man: Joseph Beuys in America, 8
+
+
+
+
+     Art in the Expanded Field
+
+
+
+I N 1 9 7 9 A R T H I S T O R I A N Rosalind Krauss published a now well-­k nown es-
+say called “Sculpture in the Expanded Field.” In it, Krauss argues that she
+can no longer analyze emerging artistic forms using the tools in the con-
+temporary art toolkit at her disposal. New hybrid forms demand new, ex-
+panded categories if they are to be accountably dealt with. Sculpture has
+been remade, she tells us, not only by categories such as the Duchampian
+Readymade and the neo-­Dadaist Combine, but by the emerging catego-
+ries of installation and earth or land art — artistic gestures that are trans-
+forming sculpture from the production of distinct three-­dimensional
+objects on pedestals to something less clearly definable, something that
+hovers ambivalently between architecture and not-­architecture, land-
+scape and not-­landscape, and that properly belongs to neither (Krauss
+, 37).1
+    What is most interesting to me about the categories Krauss proposes
+is the way that they oscillate between the strict corners of her definitional
+world, pulling in different directions, tumbling out of the very structures
+that she develops to contain them. Because of this, the essay is one that I
+still teach today, yearly, in an undergraduate lecture course called Themes
+in Contemporary Art. I teach it because it does a wonderful job helping
+students grapple with the genre-­bending and social-­and-­spatial-­remaking
+capacities of mid-­twentieth-­century artistic practice, helping us move
+from an understanding of art as easel painting or bronze cast sculpture to
+being able to read, analyze, and situate expanded contemporary practices
+such as new genre public art, relational aesthetics, art-­as-­social-­practice,
+and works that fall under what has been called the educational or peda-
+gogical turn (Bishop ; O’Neill and Wilson ; Podesva ; Rog-
+off ).2
+    While not its explicit focus, the pedagogical turn in contemporary
+art is one with which this book is in conversation. In the pages that fol-
+low, I attend specifically to the ways that dialogic, socially oriented, and
+research-­based art practices are remade within the university-­as-­site. I be-
+gin by situating research-­creation — a sister term to what is often called
+artistic research — within a local context, that of the Canadian univer-
+sity in which I currently teach. This situated focus grounds my analysis,
+but my words and thoughts are not simply offered here to the Canadian
+academy. They emerge from my experience as an AmeriCanadian (dual)
+citizen, trained primarily in England and the United States, now teach-
+ing in Canada. With this book, I aim to contribute not only to readers in
+Canada, and not only to the visual arts, but to those in other, related, sites
+of debate on artistic research in university contexts.
+    Drawing on texts that are common currency within these debates (for
+example, Christopher Frayling’s  “Research in Art and Design”), as
+well as texts that are not (such as Jacques Lacan’s  lectures on the gaze
+as objet petit a), this book-­length manifesto offers itself as both love song
+and lament. I interrogate research-­creation as a genre full of exciting peda-
+gogical and institutional possibility. I also lament the hopeless exhaustion
+I see in colleagues all around me, as our system follows quickly on the
+heels of the UK and Australia, with an increased corporatization of the
+university and a complex and insidious evisceration of experimental peda-
+gogy and research (Davidson ; Jeppesen and Nazar ; Royle ).
+
+The manifesto is a genre that I invoke in the title as well as the form of
+this book. It matters deeply to my project and is inspired by Donna Har-
+away’s two, well-­k nown, manifestos ( and ). A manifesto is a call
+to action. It mobilizes declarative and persuasive language and works to
+manifest a different world, performatively. In the case of this book, I offer
+a hybrid formation: something between the rigor of a scholarly mono-
+
+
+2 Introduction
+graph and the heartfelt framing of a manifesto. I do this toward a vision of
+a university not in ruins (Readings ), not abandoned to professional
+justification and defensive metrics, but of a feminist university of creativ-
+ity, experiment, and what I will frame in the pages to come as a mode of
+eros that is committed, cathected, and sustaining.
+    As a strategy of resistance to the resignation that surrounds me daily in
+the arts and humanities wings of the university, I look to research-­creation,
+even as it is being commodified right under our feet, as a site of generative
+recrafting: a touchstone and orienting point that might help render daily
+life in the academy more pedagogically, politically, and affectively sustain-
+able. That said, the research-­creational struggle that animates this book
+is not for acknowledgment (a seat at the table: “Look! Now artists can be
+researchers too!”). It is for the insertion of voices and practices into the
+academic everyday that work to trouble disciplinary relays of knowledge/
+power, allowing for more creative, sensually attuned modes of inhabiting
+the university as a vibrant location of pedagogical mattering.
+    As I have written elsewhere (Loveless ), I first began grappling
+with research-­creation (although not under that name) in, when, as
+an art student (mfa) at a US museum school, I found myself craving a
+level of academic training that the museum school was not, at the time, set
+up to support. I had many excellent teachers there. They read philosophy
+and literary theory, made art, and provided a critically informed studio
+environment that was top notch. But different training practices (peda-
+gogical, institutional, academic) carry with them different needs, orienta-
+tions, and expertise. Being at a museum school designed to support excel-
+lent studio (and poststudio) practice aimed at a professional art market
+and extended art world, I was not going to get the kind of attention to my
+scholarly thinking and writing that I would under different institutional
+and disciplinary conditions. So, to get what I needed, I added, in, a
+second degree (an ma in contemporary art history and theory) at a nearby
+university, and completed both in.
+    The craving that led to this desire was twofold. It was a craving of the
+heartmind: I simply fell in love with the kind of thinking, reading, and
+writing practices associated with the work of contemporary art theory
+and criticism. It was also a craving that emerged endogenously from the
+work I was doing in my studio: the more I gravitated toward conceptual
+and feminist art practice, the more theory and history I needed. I couldn’t
+
+
+“get” Mary Kelly’s germinal Post-­Partum Document without also seriously
+grappling with Lacan and Freud. And I couldn’t grapple with Freud and
+Lacan without serious study and pedagogical mentorship. Of course, such
+theory and history could have been studied, enjoyed, and directed toward
+an informed artistic practice, as has been done by many a research-­based
+artist. But, it turns out, in terms of my outputs — in terms of the things I
+wanted to make in the world — academic or scholarly essays, articles, and
+books also appealed to me. More than appealed. I found myself desiring
+both, and driven to do both, simultaneously and in equal measure. And
+I had the privilege of being located at two institutions (the School of the
+Museum of Fine Arts, Boston, and Tufts University, Medford — then not
+combined as they are now), each of which provided me with the space and
+conditions of possibility to flourish in concurrent, overlapping, noniden-
+tical worlds (degree programs). This, as I will return to in the pages that
+follow, turned out to be key.
+   My story is not unique. While it was not the norm at the time, and ar-
+guably is still not the norm today, I have since met many a kindred spirit
+with a similar story. For instance, in my hometown of Montréal, at the
+very moment that I was navigating these drives and forging what looked
+(to me) like new paths, a range of university-based practitioners and schol-
+ars were already developing studio-laboratories (Century ) dedicated
+to exploring, championing, and supporting such practices under the term
+research-creation, the Université de Québec à Montréal (UQAM) had al-
+ready started the first fine arts PhD in Canada (in French), and in the UK
+doctoral degrees in the fine arts were already being awarded.
+
+Research-­creation is a geographically specific term that works in tandem
+with alternatives such as practice-­based research, practice-­led research,
+research-­based practice, research-­led practice, creative-­praxis, arts-­driven
+inquiry, arts-­based research, and, increasingly, artistic research. This
+ever-­growing roster speaks to the ways that artistic practices come to be
+understood as research methods and outputs in university contexts and
+the different ways that artistic practices with research bases or bents have
+been codified since (at least) the s when, in the UK, doctoral degrees
+in fine or visual arts practice began to be awarded (Barrett and Bolt ;
+Biggs and Karlsson ; Haseman ; Leavy ). Distinctions be-
+tween these terms and the practices they stand for are debated regularly,
+
+
+. and these debates are linked not only to new doctoral programs but also
+to national funding structures and, increasingly, national research chairs.5
+    The website for Creativity and Cognition Studios, started by Linda
+Candy and Ernest Edmonds in  at Loughborough University (UK) to
+explore intersections of art-­and technology-­based research (now housed
+at the University of Technology, Sydney), distinguishes practice-­based
+from practice-­led research thus: “Practice-­based research is an original in-
+vestigation undertaken in order to gain new knowledge partly by means of
+practice and the outcomes of that practice. In a doctoral thesis, claims of
+originality and contribution to knowledge may be demonstrated through
+creative outcomes in the form of designs, music, digital media, perfor-
+mances and exhibitions. Whilst the significance and context of the claims
+are described in words, a full understanding can only be obtained with di-
+rect reference to the outcomes.” Practice-­led research, on the other hand,
+“is concerned with the nature of practice and leads to new knowledge that
+has operational significance for that practice. In a doctoral thesis, the re-
+sults of practice-­led research may be fully described in text form with-
+out the inclusion of a creative work. The primary focus of the research is
+to advance knowledge about practice, or to advance knowledge within
+practice. Such research includes practice as an integral part of its method
+and often falls within the general area of action research” (Creativity and
+Cognition Studios n.d.). If we parse these passages to clarify one of the
+distinctions this book will examine, we see that practice-­based research
+generates new knowledge through or by means of artistic practice it-
+self, and practice-­led research draws on artistic methods to generate new
+knowledge for or about artistic practice in written form. In other words,
+it is the mode of output (all text, versus part text + part creative outcome),
+and the weighted role of artistic practice within this, that remains central
+to the definitions at stake. As I will go on to argue throughout these pages,
+these are definitional debates that matter not to the making of research-­
+based art in general, but rather to the use of artistic forms and methods as
+the rendering public (publishing) of research within a university context.6
+    Initially seen as a way to support artistic research practices in univer-
+sity contexts, research-creation took hold in Québec after several pilot
+programs—starting at uqam in  and slowly integrated into Qué-
+bec’s provincial research councils in the mid to late s—and was
+then expanded nationally by the Social Sciences and Humanities Re-
+
+
+search Council of Canada (sshrc), the primary humanities and social
+sciences funding body in Canada. The definition of research-­creation
+given by sshrc is telling. Since June, the sshrc website has defined
+research-­creation as “an approach to research that combines creative and
+academic research practices, and supports the development of knowledge
+and innovation through artistic expression, scholarly investigation, and
+experimentation” (sshrc ). Distinguishing itself from sshrc’s defi-
+nition, the Canada Council for the Arts, the national granting board that
+supports artistic development and production in Canada, initially framed
+research-­creation as research/creation, stating that their grants provided
+“artists with opportunities for creative renewal, experimentation, profes-
+sional development and research” (cca n.d.). Of interest here, beyond
+the particularities of nationally specific granting structures, is the subtle
+way that a research approach or act (what is being produced and how)
+is foregrounded in sshrc’s definition, while artistic disciplinary iden-
+tity (who is doing what) is at the core of the Canada Council’s. While
+Canada Council’s “slash” prioritized the professional identity of the artist,
+sshrc’s hyphen indicates a hybrid formation, part research, part creation,
+part experiment that focuses on the output of the research.
+    At the heart of terminological distinctions such as those proposed by
+the Creativity and Cognition Studios, the Canada Council for the Arts,
+and the Social Sciences and Humanities Research Council of Canada, is
+the question of the status of art as itself a form of research. While sensi-
+tive to the disciplinary stakes of this question, unlike many books in this
+genre, mine is not an argument for the validity of artistic practice as a
+de facto legitimate form of research. The project of raising the category
+“artist” to the status of “academic researcher” in the university hierarchy,
+while pragmatically important, is of less interest to me than the consid-
+eration of what research-­creational approaches offer to the project of re-
+thinking interdisciplinary practice and politics in the North American
+university today. In this context, it seems to me that, in very many ways,
+giving “art” the status of “research” does little more than echo early femi-
+nist interventions into the canon that took the form of “add women and
+stir” — a tokenistic gesture of inclusion that does nothing to change the
+logics that structure these exclusions in the first place.10
+    In the context of the university, while research-­creation is (most often)
+linked to artistic production, its real potential rests in its demand for an in-
+
+
+6 Introduction
+ter-­or transdisciplinary perspective that, while marshalling the insights of
+emerging and developing fine arts research methodologies, exceeds the
+fine arts proper. Research-­creation, read in this way, demands a reconfig-
+uration of standard academic pedagogical training and assessment prac-
+tices — what we permit our professors and students to do and how — as
+well as our divisional and departmental making practices. Here, and in
+what follows, my focus is not on research-­based art practices in general
+but on what research-­creation does in, to, and as part of ongoing univer-
+sity discourse in the arts, humanities, and social sciences, with specific at-
+tention to what research-­creation does to our understanding of scholarly
+form at the graduate and doctoral levels.
+    Fine or Visual Art PhD (and Doctor of Fine or Visual Art) programs
+have existed internationally since the early s, and have recently
+gained traction in the United States and Canada. There is some debate
+over where and when the very first doctoral degree in visual arts practice
+(i.e., some version or other of research-­creation in art, in English-­speaking
+contexts) was offered. Fiona Candlin was among the first in the UK to
+earn a research-­creation – like doctorate with her dissertation, “Artwork
+and the Boundaries of Academia: A Theoretical/Practical Negotiation
+of Contemporary Art Practice within the Conventions of Academic Re-
+search” (Keele University, ), and Gavin Renwick was the first to do
+so in Scotland with his project, “Spatial Determination in the Canadian
+North: A Theoretical Overview and Practice-­Based Response” (Univer-
+sity of Dundee, ). A decade and a half later, in, Kevin Rogers
+(“Out of Order: Thinking through Robin Collyer, Discontent and Affir-
+mation ( – ),” University of Western Ontario) and Risa Horo­w itz
+(“Disciplining Art Practice: Work, Hobby, and Expertise in Practice-­
+Based Scholarship (Blurry Canada, Potager, Scrabble),” York University)
+were awarded (to the best of my knowledge) the first English-­language
+research-­creation degrees in the visual arts in Canada — both, in fact, on
+the same day (August 23). These latter were fine arts doctoral degrees
+based in both a written ­document and artistic output.12
+    The awarding of degrees such as these has caused much debate, mostly
+focusing on the relation between art and the academy. Sometimes con-
+cerns come from those in the humanities and social sciences who have
+trouble imagining how a “chapter” can take the form of a performance or
+installation. At other times the concern comes from those who have been
+
+
+trained as artists, worried that their disciplinary modes of knowing and
+producing are being forced to become more “academic” even when they
+don’t want (or need) to be. Such anxieties (of place, category, and orien-
+tation) are compounded by the fact that at the same time as many uni-
+versities in the United States and Canada have been working to develop
+research-­creational PhD programs, art academies — for example, Cana-
+da’s oldest conservatories such as the Emily Carr School of Art and De-
+sign, the Nova Scotia College of Art and Design, and the Ontario College
+of Art and Design — have reconfigured themselves from “art school” to
+“university” (i.e., becoming the Emily Carr University of Art and Design,
+nascad University, and ocad University). Given the legitimization of
+art-­as-­research in universities (under the banner of research-­creation) and
+in the art-­school-­reframed-­as-­university, artists often find themselves,
+whether they want to or not, having to learn how to navigate the legiti-
+mating (and often confining) structures of social science- and humani-
+ties-based university granting boards, and the modes of output and as-
+sessment specific to those areas of the university. In this context, many
+ask whether these shifts, for both art conservatories and research univer-
+sities, are simply a matter of bums in seats and the financial bottom line:
+Are art schools just trying to survive by widening their market and access
+to public funds through accreditation? Or, from the university side, are
+universities simply using art as an attempt to render research outcomes
+“relatable”? Is art being used as a lackey in the university’s push to prove
+“real-­world” impact (what my home university frames as “for the public
+good”)? Is this really why research-­creation is being supported — when it
+is — in academic contexts?
+    My hope — a hope that emerges from almost a decade of thinking
+about and teaching in research-­creational contexts — is that while, cer-
+tainly, each of these anxieties has merit, it is not only these things that
+are at work. Despite the seemingly all-­pervasive instrumentalizing and
+optimizing push governing university climates at this historical moment,
+one that renders many of my colleagues suspicious of research-­creation
+and the uses to which it is being put, I continue to see research-­creation
+as one of those cracks (to paraphrase Leonard Cohen) that lets the light
+shine in, through its experimental and dissonant forms of practice, re-
+search, and pedagogy. It is for this reason that, instructed and inspired by
+colleagues both national and international, I mobilize research-­creation
+

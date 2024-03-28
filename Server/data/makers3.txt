@@ -1,0 +1,323 @@
+
+
+This formulation of grey media is explored in class by proposing that technical objects have
+a directive side or could be considered desiring in philosophical terms. This can be thought
+of more widely as how do we create a critical understanding of media interaction and the
+formation or performance of power. The ability to manipulate the directive side of technical
+objects through multiple scales of logics can be one place where the kind of evil described in
+Fuller and Goffey's book resides.
+
+This class explores how the directive side of technical objects can be thought through with
+the design/individuation of the technical element and individuals, ensembles in a simplified
+Simondonian sense. The space of a desiring technical individual is unfolded as it (among other
+things) encourages us to alter our minds, behaviors, and bodies in order to better use them. Our
+self-modification in response is often rewarded by allowing us to more clearly tune in to technical
+objects and receive cleaner channels of information from them. The programming and use of
+computers, for instance, implies both programming the machine in order to perform calculations
+and regulating the conduct of users in manipulating mice and menu systems, ordering their
+input to produce desired results.
+
+The class as a whole is then encouraged to explore how people participate in the flows of power,
+language, and logics created in collaboration with technical objects. They investigate how the pro-
+cesses of these objects become normalized, and how we become entangled in their interrelations
+across various scales. As we once again become unfamiliar with how software operates within
+computation and culture more generally, it makes sense for the class to enquire into how such
+logics operate in other realms: social processes, politics, economy, and the intrapersonal sphere.
+
+Risk, Ethics and Critical Acts
+
+The critical in Critical Technical Practice has its own genealogies, discourse, and armies of aca-
+battlefield from time time and remix the devastation or causation for a class, I'm certainly not
+intellectually or educationally equipped or sufficiently interested to reveal the intricacies of such
+a mire in here. I leave this to my stunning colleagues, Prof. Matthew Fuller and Dr. Luciana Parisi,
+who consistently feed the students' hungry appetite in this area. However, adjacent to discursive
+threads of criticality, there are other forms that can be easily be transposed and digested in a
+practice-based class. There are critical acts that surface from the struggle to survive and flourish
+in an unfair world. There are critical acts created by tactical media, by the deranged, or those
+taken from the fringes of art. Thinking with such critical acts, as discussed in the,
+allows us to address the personal risk and ethics (or lack thereof) associated with them.
+
+These forms of critical acts are multivalent in wider culture and it becomes important to both
+value and interrogate the nature of such phenomena if we are to incorporate them into Critical
+Technical Practice alongside intellectual critical threads. Students need to consider what might
+constitute a critical act at the microscopic and macroscopic scale, and to chart how it functions
+as a disruptor/constructor/enabler/disabler within culture and society. At the same time, students
+need to discriminate between considered and unconsidered critical acts, their ethics and the
+worth of personal or institutional risk.
+
+One less considered example of a critical act that I came upon this year in my hometown was
+that of Snakey, a paranoid -year-old who lives on an old  ft plastic boat. Snakey's boat had
+been abandoned on the mud for  years with no facilities of any kind, no means of propulsion.
+One night he just pulled it out of the Thames marsh and up on the mud alongside the locale
+cockle sheds, where his estranged dad and brother run a successful seafood business. Snakey
+eats and throws the rubbish out of his boat and urinates in used plastic drink bottles, throwing
+them overboard when the tide is out. Snakey demonstrates his contempt for those who know
+him and those who know he has committed something considered disgusting. People are forced
+to witness his light yellow urine contained in plastic bottles, a stand in for his contempt for the
+environment. He could have urinated straight in the sea like all the other men, but decided to
+dirty his nest, to contain his bodily wastes for others to witness. In this way Snakey spontaneously
+produces a critical act in a bottle that fractures the complacency of those that share this common
+space. It is a powerful act, a declaration of bodily power that resists, exposes, and exploits the
+preconditions that have created his current situation. It also creates an unbearable embarrass-
+ment for his dad and brother.
+
+The critical act of Snakey fractures complacency by introducing turbulence into cultural and
+social 'common sense'. The unthinking equilibrium amongst people of the shoreline that blinds
+society is temporarily broken. The energy/discord produced pulls into focus what conditions the
+moment – not necessarily for Snakey but those that exist within the relations surrounding his acts.
+The multivariate nature of critical acts and their interdependence with cultural and social norms
+makes them a compelling subject of study, but not necessarily a model to follow.
+
+Searching for someone else who fractures complacency, but who does it within a pedagogy
+more closely related to the needs of Critical Technical Practice, I turn to the offerings of Mark
+Fisher. Mark, formerly of Goldsmiths, was a working class intellectual of Felixstowe, a port town
+on the East Coast of England. Mark, who sadly committed suicide earlier this year, was able
+to think through contemporary culture and mental illness in order to illuminate contemporary
+capitalism. His book Capitalist Realism drips with a politicized depression and bears witness
+to the annihilation of vitality both in the depressed self and wider society in the early st century.
+Fisher's politically depressed vision is not surprising given that his lens was grounded by the
+exhilaration of people making culture for themselves without it first being apprehended by large
+corporations and turned into free labour before you have even had a chance to think about it.
+Or maybe his lens was tinted slightly pink, a nostalgic hue stemming from his solidarity with the
+/ miners in the UK. This was the last time there was class-based political power outside
+of an elected dictatorship, a power which arguably has now been supplanted by Facebook and
+other social media.
+
+Mark Fisher's book offers the class a critical realization of our own macroscopic entrapment within
+a totalized capitalist imaginary, much like Snakey's piss bottle challenges the pre/conditions of
+poverty and mental health at the microscopic level. Just as a critical act unfolds Snakey's piss
+bottle into the relations that make it real, Mark Fisher's question – is there no alternative to Capi-
+talist Realism? – requires us to question Capitalist Realism as a rubric of reproduction that keeps
+
+
+ us mesmerized by a desiring consumption. It also begs the question that he usefully does not
+ present: how do we figure the way Capitalist Realism performs itself through technical objects?
+This question allows the class to ask another: is Capitalist Realism the only thing performed
+ through such technical individuals? Mark effectively lays out a concise mapping and a challenge
+– a landscape of desire, production, and consumption which in popular terms, technical critical
+ practice can affirmatively engage with.
+                       MATTER THAT MATTERS: MATERIAL ENGAGEMENTS WITH A CAUSE                            
+
+
+
+
+         THE COUNTER-TESTIMONY OF THE MAKER
+                                           MARIA DADA
+
+This chapter begins with the question of critique. How and why do we critique – but more
+importantly, why does no one critique effectively anymore? This sentiment is echoed by
+Bruno Latour in the paper Why has Critique Run out of Steam? He states: 'It does not
+seem to me that we have been as quick, in academia, to prepare ourselves for new threats,
+new dangers, new tasks, new targets. Are we not like those mechanical toys that endlessly
+make the same gesture when everything else has changed around them?' According to
+Latour, the absence of principles is to blame. As he puts it, critique has battered through
+all claims to a ground, eroding any sense of a solid foundation, and with it, a compelling
+argument. The result is that there isn't even a sure ground for criticism. Without a ground,
+it's hard to differentiate a rigorous critical claim from a conspiracy theory. That's why con-
+spiracy theory books are best sellers. Latour mourns the death of critique. In its tattered
+remains, a whole industry has sprung up, denying that the Apollo program ever took place.
+
+Critique is a method and a mode of self-reflexive questioning which comes out of the age of
+Enlightenment, an era which for the most part was comprised of thinkers that held reason
+and reasoning in high regard. The purpose of critique was to question our understanding
+of reason in order to keep it in check. Critique's task was to unleash our understanding
+from the shackles of any particular dogmatic defining view. Whether we argue that the
+Enlightenment has overinflated the power of reason (as counter-Enlightenment voices
+would suggest), or narrowed it, the point is still the same: reason is misrepresented under
+Enlightenment principles and critique is there to rescue it. My claim is that the absence
+of principles transforms critique into an issue around the strength of evidence and the
+credibility of the testimony. Effective critique is synonymous with the counter-testimony
+of a reliable witness.
+
+A witness is someone who is present at the time of an event, often a crime, and is able
+to testify before the law. They are able to give direct evidence in relation to the events.
+However, they often rely on foggy memories and blurred vision. It is not too difficult for
+the defense or prosecution to put the reliability or credibility of the witness in doubt. Here
+is where the role of making comes into play. More often than not, in the post-critical age,
+a testimony or counter-testimony is not simply uttered, but is rather constructed. Latour
+is the first to admit that a critique has to be made. As such, the eyewitness is no longer a
+person but a photograph, a video, or other forms of surveillance. Juries are more decisive
+when they are presented with the facts – the evidence submitted as an object as opposed
+to the fuzzy testimony of a witness. Critique, or counter-testimony, is a material process
+enabled by infrastructure. It is a practice-based question of physics, chemistry, and the
+material forms of agency.
+
+
+
+Given all this, I will further explore the role of critical making as counter-testimony. From the
+aesthetic practices of forensics and counter-forensics to the role of labs in media archae-
+ology and investigative practices, I will tell the story of makers that present their objects as a
+counter-narrative to pressing sociopolitical issues. More importantly, however, I will address
+the issue of how critical making practices can establish credibility in a world of fakes and a
+general loss of belief.
+
+The Problem of Critique
+
+Heather Dewey-Hagborg's Stranger Visions appears as a collection of D-printed, life size, full
+color 'portraits' which are computationally generated from traces of DNA extracted from the
+hair, chewed gum, and cigarette butts left behind by everyday New York City pedestrians. Each
+exquisitely constructed 'portrait' depicts what a single stranger might look like, a representation
+based on their genetic profile. The project calls attention to increasingly sophisticated biological
+surveillance mechanisms. The work can be framed as the creation of a critical maker, some-
+one who gathers or produces objects, artifacts, words, and images as critique. But what's the
+difference between an object of critique, the D-printed sculptures, and all the other objects
+proliferating on the internet or in galleries that – by and large – are sophisticated in their own
+right? What is critique in this context?
+
+The issue that greatly affects the practice of critical making is that, at the moment, there is no
+unified view on what a critical maker might regard as reason because Enlightenment critique,
+through its incessant questioning, has dismantled most ideas around or grounds for reason. It is
+unclear what form of reason is still held in high regard – if at all. Under such conditions critique
+finds itself in trouble. You see, critique and reason go hand in hand; one acts as the means of
+establishing the other. Without critique, one cannot reason with care; without reason, one has
+no base from which to critique. If critique is in trouble, so too are critical makers. More than this,
+with the crisis of uncertainty, hesitation and increasing skepticism, the disappearance of critique
+becomes dangerous, impinging on our ability to effectively respond to climate change and other
+global issues: political stalemates, international aid, immigration – the list could go on and on.
+
+However, it is climate change that troubles the two theorists that I will discuss here. Both Bruno
+Latour and media theorist Wendy Chun consider the loss of faith in science in the face of climate
+troubles to be highly significant, and the primary reason to resurrect critique. I will start with Latour.
+Latour believes that critical theorists have spent far too long refusing to engage with what he calls
+matters of fact, what scientists would call brut fact or empirical facts. As he states in an article
+from the  Critical Inquirer, the mistake is to think that the only way to critique matters of
+fact is to move away from them.
+
+As a result, these critical theorists never experience a complicated object, such as those found
+in science and technology. Michael Serre, although far from critique, is one of the few thinkers
+that takes the objects of science seriously, in an ontological and anthropological fashion.
+
+                   MATTER THAT MATTERS: MATERIAL ENGAGEMENTS WITH A CAUSE                    
+
+
+
+
+Other theorists and philosophers, however, seem to drink a lot of coffee and therefore the
+only objects they seem to experience are jugs – an object that was philosopher Martin Heide-
+gger's favorite object to reflect upon. Sometimes, in order to diversify their descriptions, they
+employ rocks. But wouldn't it be more interesting, according to Latour, if instead of a rock
+they described dolomite?
+
+Because critical theorists don't muse upon sophisticated objects, they cannot see them as
+what Latour calls matters of concern, something more akin to works of art or works of social
+and historical significance. For instance, philosophers such as Martin Heidegger would
+consider a handmade jug to be a matter of concern, but a can of Coke made in a factory is
+only an object, a matter of fact. Matters of concern are those endowed with political meaning
+or aesthetic significance.
+
+ Unlike Heidegger, Latour believes that rich technical objects can be transformed into matters
+ of concern. He cites the Challenger disaster of the s – the shuttle orbiter that broke
+ apart seconds after attempting flight – as a perfect example of such a transformation, one
+ that occurred in just  seconds. Conversely, matters of concern can also be transformed
+ into objects or matters of fact. Consequently, Latour's method of critique entails transforming
+ matters of fact into matters of concern. Isn't that exactly the task of the critical maker: to take
+ objects of fact and transform them into objects of concern? While that may be the case, the
+ task is not so simple. 'You can do one sort of thing with mugs, jugs, rocks, swans, cats, mats,
+ but not with Einstein's Patent Bureau electric coordination of clocks in Bern', argues Latour,
+'Things that gather cannot be thrown at you like objects'. When we transform objects into
+ matters of concern, we weaken their claim to science. Matters of fact are thrown into doubt
+ when they merge into highly complex historically situated matters of concern.
+
+Why? Here Latour blames the methods of the social sciences and humanities. Matters of fact
+are always portrayed in a ridiculous way in the social sciences (and we could add critical mak-
+ing here), where critique has come to resemble a form of anti-fetishism, or the 'fairy position',
+as Latour puts it. The fairy position refers to common arguments in the social sciences that
+reveal the desires and wishes – the 'fairies' – falsely cast onto objects. The social scientist
+or maker critic always shows the naive readers, as believers, that they are falsely projecting
+their wishes and fetishes onto a material entity, the object. In other words, the critical maker
+is attempting to reveal the ideologies and hegemonies that are projected onto the entity. 'Look
+naive reader/viewer/idiot', the critic says, 'the forces that you are not conscious of are acting on
+you'. But no one outside of the discipline is interested in what social scientists do to matters
+of fact. No one cares about the societal rug being snatched our from under their fetishized
+objects. No one wants these objects to be treated this way. Readers would rather stick to
+matters of fact. More than this, such a form of critique is useless when it comes to objects
+of some solidity. The projection game cannot be played on neurotransmitters, for instance.
+The task is not to pull the rug from underneath matters of fact and reveal their conditions.
+Such a move diverts the attention away from matters of fact onto what makes them possible
+or impossible, a move that in Latour's view has been overdone. Nonetheless, critique is also
+
+
+useless when it uses the results of science or matters of fact uncritically. Although Latour
+somewhat condemns the fairy position, he is not advocating for its opposite, what he calls
+the 'fact position' and what in the social sciences might be referred to as positivism. In sum,
+fetishes don't work because we all have fetishes, and matters of concern don't work because
+we've seen that they are fetishes.
+
+Latour concludes that a new method has to be devised, one that does more than show that
+objects are simply non-conscious societal projections of readers. Latour claims to be searching
+for something along the lines of Andrew Pickering's mangle of practice:
+
+     Not a flight into the conditions of possibility of a given matter of fact, not the addition
+     of something more human than the inhuman matters of fact would have missed, but,
+     rather a multifarious inquiry launched with the tools of anthropology, philosophy, met-
+     aphysics, history, sociology to detect how many participants are gathered in a thing to
+     make it exist and to maintain its existence.
+
+
+
+Acting under Uncertain Conditions
+
+For Wendy Chun, the issue is not that critical theorists no longer engage in matters of fact.
+It is that we, as a form of information-seeking public, have come to expect an unreasonable
+amount of certainty from our matters of fact, an amount of certainty that was not demanded
+of the thinkers of the Enlightenment, an era when scientific doubt was welcome and formed
+a huge part of the scientific process. According to Chun, we are in a 'CSI effect' era where
+there are impossible expectations placed on science. CSI, or Crime Scene Investigation, is one
+of the most watched television series in the world. In every episode, the CSI team manage to
+close the gap between speculation and conviction by finding forensic evidence, DNA samples,
+and fingerprints – all of which come together to irrefutably point the finger at a criminal. For
+Chun, CSI investigations play out, mimic, or prefigure the thought process that demands the
+closing of the gap between scientific evidence and scientific results. All the evidence must
+point to the answer, beyond the shadow of a doubt. Systems of truth and justice play out in
+the court of public opinion.
+
+The unreasonable demand placed on reason and its matters of fact is a result of Enlight-
+enment era critique and skepticism. It is because critique continues to batter the uncertain
+grounds of reason that certainty becomes necessary. The request for certainty erases the fact
+that debate and dispute are central to science. The selling of science as 'true' shuts down
+debate. As a result, matters of fact have been disarmed. Initially devised to support science,
+the tools of the Enlightenment are now being used against it. Consequently, climate change
+has been predicted, but little has been done. For Chun, it's not a question of enriching our
+
+
+
+
+
+matters of fact. The facts are known. The issue, then, is not about attaining more certainty on
+climate change issues. The earth's temperature has been increasing since the s, and
+the facts are all there. The issue is that we seem to have lost the ability to act within uncertain
+conditions. We constantly expect reason to hand us certitude, to deliver up incontestable
+certainty. Given these high expectations, conservative organizations and rogue scientists have
+no problem injecting doubt into any issue. The debate can then be easily portrayed as science
+versus politics. But that is not a productive ground from which to structure the debate. In
+this murky fog of skepticism, critical makers, armed with critique, do nothing but amplify the
+voices of the deniers, and the merchants of doubt become the scientists themselves.
+
+For Chun, uncertainty needs to be enabling. Uncertainty is necessary in order for us to engage
+in risk that cannot be seen or experienced. We need to make do without the notion that
+uncertainty fosters inaction. If the public think that all the matters of fact need be gathered
+in order to achieve certainty, that such a feat is even possible, they will try to do so – and be
+paralyzed, frozen in inaction until they achieve this certainty. However, we have to be careful
+not to reduce complexity to an incident that is easily solved or determined. Rather than adopt
+the forensic logic of verification – a process that accrues evidence in demand for accuracy
+and certainty – we need to work with hypothesis, a process that 'makes do' with suppositions
+that prompt further action and investigation.
+
+Extralegal Strategies and The Entanglement of Law and Norm
+
+For both Latour and Chun, to act within the realm of reason is effectively to act within the
+realm of scientific reason and matters of fact. It is the science of the Enlightenment that they
+are both attempting to save from the clutches of uncertainty and conspiracy theory. For them,
+science is that which single-handedly put an end to the authority of religion. In that sense, it
+is the Enlightenment, and it is in trouble. But one thing that Latour and Chun seem to miss
+is that science is not the only arena from which we can act with reason. Certainly matters of
+fact are important, but these facts lack political meaning without any recourse to the norms
+and values in which they operate. The philosopher Immanuel Kant, one of the fathers of cri-
+tique, was also one of the first to realize the important relationship between reason, science,
+and what might be referred to as matters of the law – that it is the laws of reason that are
+the arbiters of empirical matters of fact, whether they be natural, moral, or juridical. When
+elaborating on the importance of being able to act within the bounds of uncertainty, Chun
+leans on the work of theorist Ulrich Beck. However, what she misses in her reading of Beck's
+World Risk Society is that the limitation of the demand for certainty does not occur only within
+the realm of science, but also within the bounds of the law. It is both science and the law that
+fail to respond to catastrophes such as climate change.

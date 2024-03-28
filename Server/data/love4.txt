@@ -1,0 +1,314 @@
+
+    Owen Chapman’s  Alphabet Radio provides a useful example for
+thinking through the relationship between Bowker and Star’s under-
+standing of the boundary object and my arguments regarding research-­
+creation. Chapman, an associate professor in the Department of Com-
+munication Studies at Concordia University in Montreal, describes
+Alphabet Radio thus:
+   Alphabet Radio is one part of a larger project called Audio Toy Box. A
+   handmade interactive electronic device made out of cardboard, it re-
+   sponds to decks of specialized cards featuring images, symbols, icons,
+   colours, and other visual cues. Each card has an embedded rfid chip
+   that causes a unique sound to playback when the card is presented to the
+   integrated rfid reader. These sounds, related to the featured images,
+   include words, syllables, phonetic sounds, musical elements and other
+   short audio files — each crafted with specific pedagogical/therapeutic
+   goals in mind. Sounds are stored on easy to switch sd memory chips
+   (commonly used in digital cameras). Different sets of memory chips
+   along with different decks of cards allow a user to create tailor-­made,
+   repetitive, audio play/learning experiences.
+
+
+
+   diagnosed with “global developmental delays” when she was quite
+   young. The larger Audio Toy Box project (of which Alphabet Radio is
+   one component) comes out of my desire to create new, more creative
+   and engaging, ways of living and working with these so-­called delays
+   and seeks to present alternative frameworks for developing and shar-
+   ing non-­ableist, affordable and adaptable/customizable pedagogical
+   toy designs. The project approaches the study of disability from an
+   artistic and interdisciplinary perspective and questions cultural nar-
+   ratives and discourses that posit disability as inherently tragic for indi-
+   viduals and families.26
+    Alphabet Radio is a Social Sciences and Humanities Research Council–
+funded research-­creation project. It functions as a diy social-­art inter-
+vention, a maker-­lab object, and a pedagogical tool in critical disability
+studies contexts. As Chapman conceives of it, it is all of these things at
+once, and properly none of them. I’d like to suggest that what allows Al-
+phabet Radio to function as a boundary object not solely claimable by any
+one context is that, while remaining legible to a number of disciplinary
+sites, it fails to fully fulfill the criteria of any one disciplinary location. In
+some ways, it is an in-­coherent object. That is, Alphabet Radio speaks well
+enough to each disciplinary context to be legible and meaningful, without
+fitting so well as to be naturalized within any of them.
+    This is compounded by the fact that Alphabet Radio is but one ele-
+ment of Chapman’s larger Audio Toy Box project. Audio Toy Box adds into
+the mix the production of academic writing and the desire to contribute
+to both the disciplines of communications studies and interdisciplinary
+field of critical disability studies, as well as artistic, designerly, and activ-
+ist sites. Audio Toy Box has outputs that are academic, outputs that are
+artistic, and outputs that are activist, and each of these sets of research
+outputs are (designed to be) weighted equally, with the research question
+itself hovering between them, and addressed and cared for differently by
+each of them. The project is not built to circulate in the art world, nor
+the world of marketable pedagogical disability aids, nor to embody the
+gadget-­gear-­cool-­factor badge of maker-­lab circulation, nor the university.
+It promiscuously inhabits all of these spaces, speaking to each, resisting
+being fully claimed by any one disciplinary location while being nonethe-
+
+
+
+Haraway ’ s Dog 
+
+
+
+less legible across all of them. Holding its own as a research-­creational
+object that denaturalizes the givens of each of the disciplinary spaces at
+stake, it places curiosity, desire, and love at the helm.
+   Another example we could turn to in this context is artist and academic
+Beatriz da Costa’s Pigeonblog ( – 8). Part art-­as-­social-­practice/new-­
+genre public art, part academic intervention, part citizen science, and part
+activism, Pigeonblog is a multimodal project that, at its core, functions as
+a speculative proposition: What if we all worked in minimally invasive
+ways to generate local knowledge, collaboratively, in our communities,
+on complex issues related to social and climate justice? What kinds of
+worlds might we be able to generate by cultivating more grassroots, cre-
+ative, accessible relationships to technoscientific knowledge production?
+And what role might art play in such reworldings?
+   Pigeonblog was developed specifically to track air quality in local neigh-
+borhoods and visualize the information gathered online and in exhibition
+(see da Costa n.d.). For the project, da Costa (in collaboration with her
+ace grad students at the University of California, Irvine, Cina Hazegh
+and Kevin Ponto) used custom-­built miniature air pollution – sensing
+devices, working with the pigeons and their fanciers over many months
+to develop a pack the pigeons would agree to fly (Haraway,. – 24).
+These packs enabled the pigeons to send air-­quality information in real
+time to an online server, which was then translated into a visualization
+schema using a Google map of the area the pigeons were flying through.
+   Like Chapman’s Audio Toy Box, Pigeonblog was “published” in multiple
+forms — public performance, gallery exhibition, and written text — with
+each of these publication modes holding equal weight. It required that da
+Costa perform as artist, legible within the field of art-­as-­social-­practice;
+as engineer, working collaboratively on microelectronics with other engi-
+neers; as a theorist of what da Costa framed as tactical biopolitics. and as
+social justice activist attentive to multispecies relations and ethics. As da
+Costa writes in her project statement “Interspecies Coproduction in the
+Pursuit of Resistant Action,” “Pigeonblog attempted to start a discussion
+about possible new forms of co-­habitation in our changing urban ecologies
+and made visible an already existing world of human-­pigeon inter­action.
+At a time where species boundaries are being actively reconstructed on
+the molecular level, a re-­investigation of human to non-­human animal
+relationships is necessary.. This call for ecological and technoscientific
+
+
+            
+
+
+    justice lies at the core of this and much, if not all, of da Costa’s work. Her
+work models a research-­creational approach to multispecies ethics and
+pedagogy that speaks across academic and nonacademic divides, one that
+uses artistic forms as spectacular lures and mobilizers of affect and action.
+    Research-­creation, as modeled by Chapman and da Costa, is a par-
+ticular kind of curiosity-­driven, inter-­or transdisciplinary method, a
+method that learns from the interdisciplinary humanities, but that adds
+to these debates by crossing “practice” and “theory” lines in ways that, like
+Krauss’s expanded field, tumbles outside of our attempts to contain them,
+and that demands new literacies (indeed, taught by Krauss we could argue
+for research-­creation as something that hovers ambivalently between “art
+and not-­art” and “research and not-­research”). To do research-­creation in
+this way is to produce objects that work not only across discursive fields
+but challenge the norms of those fields, producing boundary objects that
+insist on being undutiful. Pointing to the ways that disciplinary knowl-
+edge claims (“sorting things out”) always highlight certain elements while
+masking others, research-­creation, thus figured, insists that curiosity, in
+all its erotic pluripotency, be its guide, pushing us to tell new stories in the
+academy, stories that denaturalize singular disciplinary locations while
+nomadically claiming space within all of them. stories that unmake as
+much as they remake how we understand what we are doing as maker-
+thinkers in the — disciplined and disciplining — university today.
+
+
+
+
+            
+
+Discipline(s)
+
+
+
+   As Freud was himself forced to acknowledge, however implicitly, the uncanny...
+   calls into question the basis of all judgment; the position from which distinctions
+   are drawn. This mixing of genres poses a challenge to a notion of scholarship that
+   still insists that knowing and not knowing are mutually exclusive.
+
+
+   The truly revolutionary insight—the truly revolutionary pedagogy discovered by
+   Freud—consists in showing the ways in which ignorance itself can teach us some-
+   thing, become itself instructive.
+
+
+
+L I T E R A R Y C R I T I C A N D P S Y C H O A N A L Y T I C theorist Shoshana Felman be-
+gins her  book, Jacques Lacan and the Adventure of Insight, with the
+following anecdote: While working on her PhD in France, Felman finds
+herself attracted, at the moment she decides to buy a copy of Lacan’s infa-
+mously dense  collection of essays entitled Ecrits, by the very warn-
+ings she receives to stay away from it — to remain ignorant. “Don’t buy it,”
+says a kindly storekeeper, looking out for his student clientele by protect-
+ing them from Lacan’s famed opacity of language. However, as Felman
+tells it, rather than functioning as a deterrent, the storekeeper’s prohibi-
+tion (like Badger’s warning to Charm) works not to quash but to ignite
+her curiosity. It becomes an invitation to question why, in an academic
+environment (a university bookstore), one might possibly be advised not
+to learn.
+    Felman addresses herself, in the wake of this experience, to a “his-
+tory of reading [that] has accustomed us to the assumption — usually
+unquestioned — that [the point of] reading is finding meaning” (, 45).
+Reflecting on this, Felman asks us to shift our pedagogical habits from a
+practice of searching for the known or knowable, the manifest content of
+a reading practice, to a reading (and research) practice that is attentive
+to the aesthetic, excessive dimensions of knowledge. She invites us to ca-
+thect not only the content of (in this case) the Lacanian text, but its poetic,
+excessive, and difficult form.
+    I first read Felman’s book over a decade ago, followed, soon after, by the
+other book I cite above, philosopher and literary theorist Samuel Weber’s
+ The Legend of Freud. At the time, I was beginning a dissertation on
+interdisciplinary pedagogy, and both Felman’s and Weber’s invitations
+to cultivate a robust relationship with the “pedagogical unknown” struck
+me as fruitful. Today, a good thirty years since their publication, these
+texts still touch me; their quintessentially poststructuralist stance seem-
+ing both out of fashion and yet, somehow, needed more than ever.
+    Informed by perspectives such as Felman’s and Weber’s, this chapter
+asks: How can we create spaces that bring the terms research and creation
+together in the context of the university in such a way that they denatu-
+ralize and displace each other, allowing sites of ignorance and curiosity
+to flourish?1 How might we best mobilize research-­creation as a site of re-
+sistance and remaking within ever-­more-­corporatized university spaces?
+How to claim a term (research-­creation) so easily disciplined in creative
+and knowledge economies, and interrogate it in renewed ways that open
+up its possibilities rather than consolidate and instrumentalize them?
+This line of questioning emerges from years of teaching in which I ask
+self-­identified artists and art historians to think about what distinguishes
+a research-­creational approach from other ways they have been taught to
+do things in art and art history. In this context, and as I understand and
+teach it, research-­creation speaks with and to a long history of debate in
+the arts and humanities on the promises and perils of the interdisciplinary.
+
+
+Discipline(s)stories (Frank, Klein, 2 – 3; Moran,. – 15). One of
+the most common origin stories for the critical interdisciplinarity of the
+late twentieth century, as we inherit it in North America, is the post-­
+intellectual revolution marked (and, by some accounts, inaugurated) by
+the May  Paris uprisings. Often highlighted in this “post-­” ver-
+sion of the story is the impact of a certain wave of European thinking on
+the US and Canadian theoretical landscape that achieved its most vis-
+ible form in s poststructuralisms and s multiculturalisms. These
+were politically grounded academic approaches that, even as they came
+under fire and were remade through critique and engagement — by, for
+example, feminist materialists insisting on situated research within post-
+structuralist theory and Indigenous scholars highlighting the erasure
+of Indigeneity in critical race discourse — worked to challenge exist-
+ing structures of knowledge and education. Asking not only what gets
+to count as “knowledge” (objects and methods of study) but who gets to
+count as a scholarly knowledge maker (the inclusion and valuation of dif-
+ferent voices and perspectives, different bodies, within the academy) and
+how scholarly knowledge is allowed to be transmitted (a question of writ-
+erly vocality, most commonly), critical interdisciplinarity, as it emerged
+between the s and the s, hand in glove with the rise of poststruc-
+turalist, feminist, queer, and critical race theoretical approaches, asserted
+that the relation between what we think that we know and who we think that
+we are is never straightforward.
+   To work interdisciplinarily, on this reading, is to attend to who is pro-
+ducing knowledge and how that knowledge is being produced in ways that
+defamiliarize and reorient discipline from identity to act — to a thing one
+does rather than a thing one is (Foucault ). This shift doesn’t deny the
+need for training in the specificities of a discipline, nor does it preclude
+disciplinarily coherent work. It simply places the research question first
+and lets the necessary disciplinary skills follow. Recalling Haraway’s dog,
+instead of a research question emerging from disciplinary histories and
+habits (“Ah! No one in the field has written a monograph on thus and such
+an artist” or “No one in the field has attempted to analyze thus and such
+new aesthetic form”), the methods, tools, and approaches used, that is, the
+specific skills and literacies needed to pursue a research question or prob-
+lem, are determined as a back-­formation from the question or problem itself.
+
+
+4. As Bill Readings suggests, in his prescient The University in Ruins: our
+job, here, is to orient ourselves toward “not a generalized interdisciplinary
+space but a certain rhythm of disciplinary attachment and detachment,
+which is designed so as not to let the question of disciplinarity disappear, sink
+into routine” (, 1emphasis added).4
+    Research-­creation, taken as critical interdisciplinary praxis, asks us to
+attend to how we habitually justify our research through disciplinary sto-
+ries, those that we tell and those we have been told along the way. It also,
+as I have been describing it, asks us to attend to the form of those stories. A
+research-­creational approach not only asks us to attend to whether we per-
+sonalize our writerly voice, render it poetic, or write in a “neutral” voice of
+authority; it asks us to question whether writing, on a page, in an article
+or book format, is, indeed, the appropriate, most effective, persuasive, or
+interesting way to “write” our research. What if the most powerful way
+to communicate the research embodied within a certain “chapter” is not
+to write about it on a page, but to “write” it through video? Or in a mul-
+timedia installation? Or with a live performance event? Or through an
+art-­activist intervention? How do we begin to understand these latter as
+“publications” of research that can be tied up with, and be disseminated as
+part and parcel of, a larger academic research project, viable and judicable
+(and citable!) within university (and university-­adjacent) cultures?
+    As with any scholarly work, the need to assess, peer review, and ren-
+der citable research-­creation projects requires experts in each of the rel-
+evant disciplinary fields, ready and willing to work together to assess the
+value—disciplinary and interdisciplinary—of the work. This, for the most
+part (in my experience), works just fine for, say, a doctoral defense, as long
+as all adjudicating members are willing to listen when a colleague from a
+neighboring field explains why what may seem banal from the perspec-
+tive of one field is, in fact, important, even innovative, to another. The
+assessment problem in research-­creation emerges less at the level of an
+individual masters or doctoral defense (where the terms for success can
+be developed in camera and in situ) than at the level of the standardized
+translation frameworks needed to generalize the form — and value — of
+the work to an institution or granting body that is assessing or accrediting
+the work at a remove.5
+    In contexts such as annual evaluations (at my own home institution
+we are required to submit our outputs yearly to a committee that then as-
+
+
+ Discipline(s)sesses their value relative to the work of our colleagues and assigns our sal-
+ary increments accordingly), research-­creation outputs, because of their
+newness, are most often coded in ways that have been developed within
+the fine arts to explain artistic outputs to other areas of the university for
+promotion and advancement. For example, a large-­scale solo exhibition
+in a top museum might be translated as a single-­authored book; a group
+exhibition in a local gallery might be translated as a chapter in an edited
+volume at a low-­ranking press. While these translations are expedient,
+emerging from an attempt to find impact equivalences, they often fail to
+account for the specificity of research-­creation at the level of innovation
+as well as of labor.
+   I am thinking here of a recent graduate, Michael Woolley, who, on Sep-
+tember 14,, defended a research-­creation ma in the History of Art,
+Design, and Visual Culture investigating debates in performance art doc-
+umentation through theory, history, and artistic practice. Woolley’s thesis
+was composed of three formal elements: a written document of . pages,
+Performance and Its Documents: Revisiting Debates in Performance Art
+Documentation; an exhibition, Performative Documents and the Labouring
+Body, which ran from August. to September 16,, in the department’s
+public gallery (the departmental standard for mfa candidates); and a live
+performance-­lecture given the evening of August 24,. Each element
+worked to communicate and render political and palpable an entrenched
+and complex debate, ongoing since the s in performance art prac-
+tice and theory, surrounding the status of the document in relation to
+the live act. And each element did so through a different formal strategy:
+the written document mobilizing performative writing (Phelan ; Spry
+) to retell and reinvestigate the story of performance art’s relation to
+documentation in a contemporary context; the photo, video, and sound-­
+based installation rendering the very act of researching and writing the
+thesis visible through an intimate, reflexive, and vulnerable documenta-
+tion practice; the live performance-­lecture anatomizing the historical de-
+bates through a live, yet always already mediated body, doubled uncannily
+across the spaces and pages of Woolley’s multimodal thesis.6
+   Requiring more of both Woolley and his thesis committee than a tra-
+ditional MA thesis would have done, the project’s value exceeded what the
+university’s metrics schemes are designed to capture. Not simply or fully
+“art,” nor simply or fully “art history and theory,” yet mobilizing artistic,
+
+
+

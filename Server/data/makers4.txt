@@ -1,0 +1,348 @@
+
+moral and the juridical. Michel Foucault, for instance, traces the genealogy of 'governmental'
+reason, beginning from the reason of governance and lawmaking such as the execution and
+torture of criminals, through to the historical shift from natural laws set by the church to those
+set by science, and finally on to the laws of price and demand of the market. Whatever the
+method of critique may be, it is meaningless if it doesn't speak to and against norms, values,
+and political leanings.
+
+The term 'conspiracy theory' from which Latour is protecting science is a legal category in itself.
+It is the law that determines what is conspiracy theory and what is not. As such, the difference
+between a critique and a conspiracy can only be made before the law. Bearing this in mind,
+there is something about the verification processes of the CSI mindset to which we must pay
+closer attention: the placement of evidence before the law. In certain legal systems, matters of
+fact are questions that are answerable through the collation and construction of evidence, as
+well as the inferences that such evidence allows. Matters of the law, on the other hand, are
+those questions which can only be answered through recourse to the law, through its application.
+
+ The issue is – and here is where the CSI mindset falls short – laws in our current era are con-
+ tinuously suspended, placed under exception. Today, as Louise Amoore contends in her article
+'Risk before Justice', the instruments of governance, 'take on the shape of diverse tactics rather
+ than laws'. All juridical decisions are replaced with risk strategies that are implemented as
+ exceptions to the law. Amoore gives the example of the memoranda for granting a US visa
+ waiver to European citizens. Such memoranda are an indicative example of the suspension of,
+ and exception to, the law. The law states that all European citizens are granted a visa waiver
+ when entering the US. However, various memoranda – most notably the one made famous
+ under the Trump administration – place this law under an exception that evaluates the potential
+ risk that the passport holder poses to the US, statistically calculated in relation to their place
+ of birth. The text of the agreement outlines the extralegal practices implemented, whereby
+ individuals are screened and risk scored before travel. The law is no longer able to grant a visa
+ waiver definitively, but rather relies on risk management strategies and extralegal practices.
+ The danger of these practices is that, unlike the law, they are not limited in their application
+ or measured against a certain notion of justice. For instance, the racial profiling of Muslim
+ people on the London Underground would be prohibited under law, but is made possible
+ through these extralegal maneuvers. According to Amoore, it is these extralegal practices and
+ their relationship to the law that define norms. As a result, our understanding of the difference
+ between law and norm becomes complicated.
+
+Each of these risk practices 'defer sovereign decision'. Many legal activists are increasingly
+inclined to reinstate laws, like human rights, against these exceptions. However, such actions
+are futile when the law becomes so intertwined with its exception. Legal institutions and
+
+
+     International Law , no.  (): p. .
+
+
+
+judges have been replaced by risk management experts and mathematical models. Here, a
+conversation with the law on the grounds of justice or rights becomes nearly impossible. These
+so-called 'experts' act as witnesses that present evidence before the fact, evidence that is
+meant to deny the fact its existence, to prevent it from happening. Under these circumstances
+the threshold of what is permitted as evidence changes.
+
+Testimony of the Maker
+
+For evidence to be effective against these extralegal measures, they have to exist within its
+threshold as evidence before the fact, or what we might call counter-risk or counter-specula-
+tive evidence. The role of the critical maker under such a regime is to construct the matters
+of fact as evidence that undermines the risk expert, countering the possible risks of financial,
+military, border, and terrorism activities. They have to become an 'expert' under a different
+administration of rights. Nonetheless, matters of fact have to be produced, put forth, related
+extra-juridically to uncertain conditions, evidently and aesthetically. This is not a case of
+revealing the hidden fetishes of facts in order to dismiss them. It is reveling in counter-facts
+in order to dismantle the norm. It is making certain that the world remains uncertain – despite
+its continuous capacity to calculate a certain type of risk.
+
+Latour is right in claiming that: 'The critic is not the one who debunks, but the one who
+assembles'. Evidence constructed against the extralegal is dolomite, a far richer and more
+nuanced way of describing the translucent mineral. This is not the generic jug or the banal
+rock. And it is at precisely this moment that matters of fact become matters of concern. It
+is that which is made to sit in front of risk management techniques as that which is not
+compatible with it, that which aims to change it. It is not the production of evidence in order
+to maintain the authority of the law, but in order to reveal its impotence and undermine its
+reliance on 'experts'. In such a scenario, the critical maker becomes a statistician, not in the
+predictive financial model sense, but in Gabriel Tarde's sense of the sociologist as statistician;
+this statistician is a forensic scientist of possibilities, someone who presents the evidence not
+to satisfy the law beyond a shadow of doubt or towards certainty before a jury, but in order to
+defy the norms however they may be performatively realized.
+
+Effective critique is synonymous with a counter-testimony of a reliable witness. In the age of
+extralegal risk management, legal practice is intertwined with technical forms of expertise.
+In these conditions, the critical maker has to become a witness against the experts, able to
+give evidence against their predicted events before they happen. With this goal in mind, the
+critical maker – whether engineer, designer, or technologist – should bask in their technical
+skill and professional expertise, rather than transforming themselves into the artist as amateur.
+
+I will conclude by returning to the example I began with. Two years after the exhibition of
+Heather Dewey-Hagborg's Stranger Visions, Parabon NanoLabs launched a DNA profiling
+service to be used by the police. The news of the launch lead Dewey-Hagborg to extend her
+
+
+
+critical efforts and begin a new project that aimed to reveal the limitations of this phenotyping
+technology. The expertise she gained during the project allowed her to discover that NanoLabs
+DNA profiling is not accurate enough to be used in criminal investigations.
+
+Stranger Visions embraces a certain aesthetic, making the viewer gawk at the spectacular
+possibilities of D printing. However, the critical element of the work lies in the way it under-
+mines the extralegal tactics of the police, their reliance on shoddy DNA sampling to quantify
+and calculate the risk of crime. Dewey-Hagborg's critique, however, would not have been
+possible without drawing upon expertise in DNA profiling and computational practices that
+allow her to undermine the practices of phenotype risk management. By developing her
+proficiency in this field, Dewey-Hagborg became an expert witness, presenting scientific facts
+as counter-evidence before the exceptional circumstances of the law.
+
+     MATTER THAT MATTERS: MATERIAL ENGAGEMENTS WITH A CAUSE   
+
+
+
+
+   Unmaking:
+Against General
+ Applicability
+
+   Critical Media Lab
+(Merle Ibach, Michaela
+ Büsse, Felix Gerloff,
+ Viktor Bedö, Shintaro
+Miyazaki  Jamie Allen)
+
+      UNMAKING – AGAINST GENERAL APPLICABILITY
+     CRITICAL MEDIA LAB (MERLE IBACH, MICHAELA BÜSSE, FELIX GERLOFF,
+              VIKTOR BEDÖ, SHINTARO MIYAZAKI  JAMIE ALLEN)
+
+As belief in the applicability and efficacy of DIY production, open-source, and method sharing
+has broadened to include institutional hackathons and open-data-fueled and civic 'maker
+weekends', taking stock and articulating how certain approaches 'work' or 'do not work' within
+maker culture – and for progressive and expansive creator cultures more generally – continues
+to be essential. 'Making' is a key concept that frames a host of more specific practices, lending
+characteristic manual/moral, communal/communicational, aesthetic/ethical, and enacted/
+economic inflections and values. Even simple historical, traditional, technological, or digital acts
+of object and media creation, of art and design, but also of writing and thinking itself, can be
+recast as 'making'. What is it that happens to the thinking and doing of such activities, when
+such recasting is desired, chosen, projected, enforced, or assumed?
+
+The use of, and reflection on, means of production and the shaping of materialities ignites
+potentials for understandings that are as fundamental and intrinsic as they are 'disruptive' and
+incisive to contemporary economies and assumptions of industrial societies. A fundamental
+difficulty arises through genealogies of making, as scenes, cultures, and epistemological fram-
+ings, when such techniques become homogenized, universalized, and devoid of the specificity,
+situatedness, and necessarily tactical improvisations through which they needfully emerge. In
+the writings that follow, our contribution takes up both practical and theoretical considerations
+of critical making, and the always ambiguous and reactive stances for and against 'making' as
+a cultural lens, valuation, and rubric.
+
+The specificity of diverse practices crumbles the edifice of 'making'. By recognizing the hetero-
+geneity of relations to making, we are against its general applicability as concept, motivation,
+approach, and toolset. In these writings, we attempt means of breaking open 'making'. We
+recognize 'making' as a neoliberal, modernist shibboleth – even if, as a concept and motivation,
+it is still usefully distinct from centrally, mass-industrialist and productivist motivations, activities,
+and economics. Often a justificatory excuse that converts 'unnecessary' action into something
+necessary, that turns profligate endeavors into reasonable activities, it is the rhetorical edifice
+of 'making' itself that needs to be unconstructed, to be unmade. This process is necessary to
+determine which aspects of making and maker culture to keep, which we should just ignore,
+and which we should throw away. 'Unmaking' is a broad, reflexive, and critical framing that
+emphasizes the always ambiguous character of making, reversing operations that aren't always
+in themselves truly emancipatory or progressive, and providing mirror-reflections for design,
+art, and other undisciplined creation, when it is framed as 'making'.
+
+We juxtapose four very different but resonant contexts, shorter explorations related to research
+currently under way at Critical Media Lab Basel. We address these through different scales,
+
+
+
+
+
+
+layers, and levels of materiality, beginning with additive design. This is complemented by
+discussions of the micro-level of our built, designed, and made environments through work
+on the materiality of sand and collaboratively made open source softwares and digital envi-
+ronments. Reflections on the epistemological dynamics of making and thinking-making follow.
+What kind of tradeoffs are made between the agility and transferability of practices, gained
+through systemic abstraction and generalization, and the material and bodily engagements and
+efficacies of individualized making? Idiosyncratic, individual explorations highlight how making
+(and unmaking) are not one thing but specific orientations that arise in practice, in materiality.
+
+
+
+
+
+Additive Design
+
+ D printing is seen as an alternative to industrial manufacturing. It is a technique and technol-
+ ogy charged with designerly as well as political promise. The potential for participation in, and
+ democratization of, manufacturing processes, as well as a return of offshored production back
+ to local communities and the unboxing of global supply-chains are amongst these promises.
+ Through innovation-driven experiments, technophilic supporters – from the amateurism of
+'maker space' culture to engineering in the building sector, biotechnology, or aerospace indus-
+ tries – have projected practical, economic, and idealistic legitimacy onto D printing. Yet, the
+ most common use of thermoplastic print technologies arises in prototyping practices, primarily
+ in the Do-It-Yourself sector, an area which is neither industry oriented nor purely craft-based,
+ and develops little of the projected promise of maker-marketing characterizations. Even as
+ D printing is poised to transform some design and manufacturing processes, perhaps even
+
+
+     responsibility, effectiveness, authenticity, and kit-ification. Questions raised included: is your experience
+     of making sincere, legitimate, and genuine? How does making increase or reduce proximities,
+     collectivities, autonomies, sufficiencies, and dependencies? How can we think 'outside the box' when
+     everything comes in a box? Does making (need to) make a difference? Does making give us abilities to
+     respond politically, ecologically, or economically?
+     Umweltwirkungen, Dessau-Roßlau: Umweltbundesamt, , p. . https://www.umweltbundesamt.de/
+     sites/default/files/medien//publikationen/fachbroschuere_d_barrierefrei_.pdf.
+
+fundamentally, the majority of produced artifacts are copies of existing objects. These copies
+no doubt reflect even more fundamental traditional social configurations, and will do so
+for the foreseeable and prolonged future. Very popular items of everyday use like vases,
+cups, simple mechanical parts, connectors, adapters, or decorative artifacts, are locked-in
+designs that originate under conditions of industrial fabrication, and are therefore unlikely
+to be manufactured in truly radically new ways. Additive manufacturing is explicitly defined
+by Jesse A. Stein as: '[...] part of a system of technologies that also encompass digital
+design (e.g. CAD files), feedstock (materials required to print matter, e.g. plastic spools),
+and associated digital and physical infrastructure (e.g. the internet, hardware, energy,
+space)'. Additive manufacturing does not only mean the addition of layers of material
+onto a carrier plate: design education, designers, design tools, and material resources
+necessarily complete their qualities in a reciprocal symbiosis. It is a globally networked
+community, comprising the knowledge and practice of D printing, that embed them-
+selves in and inform D additive manufactured designs, creating further layers of remixed,
+transcultural knowledge. Thought of as a media technology, D printing operations don't
+merely lead to new or alternative representations, but to fundamentally different design
+methods and experiences of design and making processes.
+
+Critical Media Lab's Merle Ibach (Junior PhD Researcher) explores additive design pro-
+cesses and their ways of becoming. Merle's practice-based research explores two per-
+spectives of additive manufacturing and D printing. On one hand, there are individual
+aesthetic expectations associated with 'virtual qualities' prior to manufacturing. 'Mathemat-
+ical pureness' and independence from statistical variation and morphology are given by
+software paradigms and built-in settings. These are projected and infused when a physi-
+cal model is made 'inside a computer' and then additively produced in the world. Ibach
+understands that growing up and living with ergonomic, standardized, mass-produced,
+industrial products creates tendencies for aesthetic homogeneity. On the other hand,
+there are aesthetic qualities that emerge within the sociotechnical negotiation of particular
+tendencies and interests across the spectrum suggested by actors like designers, CAD
+software, STL-files (a file format for unstructured polygon surfaces), ABS-Filament (the
+synthetic material, derived from petrochemical mineral oil), and D printers themselves.
+What Isabelle Stengers, a philosopher of science, has called 'reciprocal capture'  also
+describes a dual process of co-invention between a designer, a maker, and their tools.
+However, while imagined as being deterministic, computational scripts, additive manu-
+facturing, and digital design are reciprocal processes that are never fully duplicated. The
+complexity of a first prototype, devised by one person alone, is manifested through a host
+of systemic translations and technological transformations.
+
+'In the computer', within CAD software, wireframe models are constructed that do not
+ directly link form, geometry, and materiality as it will manifest 'outside the computer'.
+ Instead, these links are purely mediated. Exported as a STL-file, the dimension-driven
+
+
+                     MATTER THAT MATTERS: MATERIAL ENGAGEMENTS WITH A CAUSE                      
+
+
+
+
+geometry of the vector-based model is algorithmically translated into surface polygons.
+This transformation, amongst other changes, creates flattened, fractured elements from
+curved and rounded surfaces. Elements can become grossly distorted in relation to
+the chosen degree of approximation (e.g. size and density of polygons). The STL file
+format often causes further syntax errors such as the doubling of object facets, gaps
+between them, or incorrect assignment of their orientations. The file is then translated
+by a D-printer software, into g-code. By slicing the model into layers, g-code contains
+data and instructions with parameters like speed, XYZ-coordinates, and material feeder
+movement, that later direct the stepper motors that move the print head. Through a
+nozzle as small as . millimeters, heated up plastic filament is applied to the build
+plate. In the process – imagined as a trajectory from imaginary representation toward
+physical manifestation – an in-computer model is filtered into simple geometrical shapes,
+reduced to polygon surfaces, sliced into layers, cut into short commands, and then finally
+reconstituted by hot, fluid plastic with a shrinkage rate of around %.
+
+During preliminary design processes, relations are formed and values negotiated whose
+persistence are just as transient as they are 'rapid'. Whether printing a rare, mechanical
+connection, a complex, lightweight structure, a residential house, or an artificial coral
+reef, D printing embodies a promise – that at the end of every idealized design process
+there could, or should, be a 'Print' button. Even if every application, in practice, actually
+depends on another technology, all these applications are united in their basic operations.
+Controlled by software, a printer applies material, layer by layer, onto a substrate, and
+things appear. Particularly in prototyping operations, which is the iterative designing of
+possible 'solutions', thermoplastic print technologies accelerate the development pro-
+cess from first draft to a final (often commercial) product. Media materiality, as John
+Durham Peters points out, provides more than just organizational structures.  It shifts
+the paradigms of making, from ideation to design onward. Software is also continuously
+updated, so its experience underlies a constant relearning and refining. Virtual design
+environments are workspaces of endless iterations, of unhampered addition, removal,
+multiplication, and scaling. Due to automated production, design through additive man-
+ufacturing seems to us only determined by formal, aesthetic questions.
+
+According to a report of the German Federal Environmental Agency, the overproduction
+and defective production of 'more or less value-free items' tends towards the creation
+of increased environmental pollution for humans and the environment. A good deal
+of particulate matter is produced during additive manufacturing. Other issues include
+the toxicity of the materials that are used for the filaments and their lack of recyclability.
+Even the biodegradable plastic polylactide (PLA) that is often used as alternative to
+petroleum-based plastics like ABS can only be composted through special industrial pro-
+cedures. Furthermore, the printers have high power consumption in proportion to their
+modest outcome of individual pieces. So far, D printing in total has a marginal impact
+
+
+
+on the environment when compared to industrial manufacturing. But extrapolating its
+effects onto a larger scale points to additive manufacturing as a potential harbinger of
+a parallel ecological disaster.
+
+D printing is both a technology and a socio-ecological concept. Through the principles of
+D printing, distinctions between designer, manufacturer, distributor, and consumer become
+reconfigured and realigned. The implicit regime programmed into additive manufacturing
+eradicates the materiality of an object during its design process. 'Making' here – marketers
+suppose – somehow loses its weight, its perfidy, its resistance. The material aspects of D
+printing are left in the background, shifting attention away from the material resources and
+chains of technical know-how and instrumentation required. In this imaginary of 'making',
+things can be fabricated from any sort of material, any sort of synthetic structure. The design
+ecosystem, simultaneously dematerialized and rematerialized, provokes changes and trans-
+figurations to global ecosystems.
+
+
+
+
+
+Sand
+
+Our second field of exploration is based on the practice-based study of the loose granular
+silicate material, sand. This work, conducted by Critical Media Lab's Junior PhD Researcher
+Michaela Büsse, takes a grain of sand as an inter-scalar vehicle for reflection and critical prac-
+tice. Sand, as a substance, combines geological time with human time, ecology with economy
+with politics. Sand is both witness and object to  years of history, and it is of course not a
+uniform, real, or imagined materiality. Defined only by its grain size, desert sand is different
+
+
+
+
+
+
+from sand found in rivers or on beaches. Grain shape is rendered by environmental forces
+such as water and wind, and compositions can be a varied amalgam of shells, plants, and
+rocks. Sand contains disparate mineral compositions, consisting of quartz, magnetite, and
+other oxides, and is in high demand for engineering purposes. Because of its rich mineral
+composition, volcanic sand is of high economic value as well, particularly in places like Sin-
+gapore and China, where the respective industries are concentrated. Sand is becoming:
+becoming land, becoming industrial zones, becoming electronic goods, as a medium and
+material of design and making. Japan, Singapore and Dubai use sand (also rocks, soil and
+cement) as infill to increase the territory of their nations.
+
+In Tokyo Bay, one of the biggest land reclamation areas sprawls out over  hectares.
+On the Dubai coast, construction sites have added more than  kilometers of coastline
+and over  hectares of landmass. Singapore's territories have expanded from 
+hectares to  hectares, a growth in land of just over %. As opposed to diking – land
+reclamation by enclosure and water removal, practiced in the Netherlands since the th
+century – land reclamation by infill is additive manufacturing on a large scale. Ships get
+loaded with sand that is shot with high pressure through a jet, displacing and expanding
+seafloor into landmass. As floating D printers, they apply layer by layer of sand and
+instantly create new coastlines and tracts of land. 'Human activity has effectively created
+a new layer on the surface of the planet, made up of old bricks, cement, and rusting
+metal. Geologists and archaeologists have started calling this layer the archaeosphere'.

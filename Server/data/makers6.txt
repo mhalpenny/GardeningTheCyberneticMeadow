@@ -1,0 +1,182 @@
+More-Than-Human Making
+
+So far, we have described a highly constrained maker culture – one that does not extend
+beyond the geographic regions of North America and Europe, one focused exclusively on
+novel technologies and digital processes, and one that is solely the domain of makers cast
+in a hobbyist or entrepreneur mold.
+
+This myopic view of maker culture reduces the scope of possibilities and excludes many
+cultural practices. Another, broader set of practices will be discussed here and read through
+theories that consider a 'more-than-human' arrangement of 'material, technical, and intensive
+objects and processes'. Posthuman and new materialist theories contest the assumption that
+the ability to affect or be affected is the domain of organic matter only, suggesting instead that
+the material world can be understood as an assemblage where 'nonhuman technologies and
+natures are as much part of society as humans'. Proposed by Rosi Braidotti, critical post-
+humanism is built on feminism and post-colonial theories and adds a level of accountability
+and subjectivity to the discussion. Braidotti defines the 'critical posthuman subject within an
+eco-philosophy of multiple belongings [...] as a subject that works across differences and is
+also internally differentiated, but still grounded and accountable'.
+
+This reading considers a framework for maker culture that explicitly recognizes the non-human
+vitality within materiality, and also acknowledges practices that construct subjectivities not
+bound to the concept of the individual, but as continuously forming. Continuously forming
+subjectivities necessarily blur opposition and boundaries that can exclude and marginalize,
+offering a complex, diverse, and more inclusive framework from which to act. The concept
+of the posthuman enables us to rethink our power relationships and 'greatly expand our
+understandings of the multiple agencies, dependencies, entanglements, and relations that
+make up our world'. It makes it possible for us to consider our being in the world beyond
+binary divisions of human versus non-human agency.
+
+Affective Making
+
+The maker movement is scaffolded on an array of advanced digital fabrication technologies
+that have emerged from a culturally and geographically narrow area of the world. This par-
+ticular flavor of maker culture is predicated on a primarily American narrative of software and
+hardware industries and commercial success. According to this technological fable, innovative
+firms create products that change the world for the better. However, in recent years this Silicon
+Valley narrative has been challenged by a series of indiscretions and abuses of power. These
+often reveal that these companies' primary motivations are high valuations and profit margins
+
+
+     Publishing, .
+
+
+
+along with the proliferation of a cyber-libertarian philosophy. Similar techno-deterministic
+attitudes can be found embedded in maker culture, attitudes that exclude other practices
+and cultures from around the world that do not fit this narrative.
+
+One example is the widespread practice, derived from India, known as jugaad. The meaning
+varies depending on context and usage, but can be described as a type of frugal innovation
+or a 'hack'. In contrast to the maker movement predicated on particular digital technology
+and access to specialist spaces, the practice of jugaad is commonplace and is performed as
+a necessary response to obstacles that occur within everyday life.
+
+ Contrasting jugaad with Western-style maker culture should not be understood merely as an
+ opposition of making via emerging technologies versus making as 'frugal innovation' or with
+'low-tech' means. Instead, examining jugaad-style making demonstrates an alternative situat-
+ ed practice. Here, making is driven by environmental and economic conditions of necessity,
+ rather than leisure or profit-driven innovation.
+
+Jugaad describes a type of activity that often responds to problems with a creative solution,
+fix, or workaround. In contrast to the Western model of making enshrined in curated making
+spaces, with specialized tools and a single-minded intent, jugaad-style making practices
+are experiments in augmenting, repairing, or improving domestic and community spaces
+with informal methods of making-do using reappropriated or recycled materials. This type
+of making is not facilitated in purpose-built workspaces, guided by prescribed methods, or
+accomplished using standardized tools. Instead, jugaad-style making is about subverting
+design thresholds, pushing against engineering principles, and exploiting opportunities within
+the fabric of the environment or technical infrastructures.
+
+These workarounds can also involve exploiting the non-physical substrate of consumer
+products and networked technologies. Take, for instance, the simple but commonplace
+practice of using 'missed calls' to avoid a connection charge. Here layers of network
+hardware and protocols, subscriptions tariffs, and the mobile phone itself are augmented
+by a nuanced grammar (or protocol) of 'beeping' patterns that have been predetermined
+by phone users. This jugaad is an arrangement of existing technologies, a response to
+economics conditions that creates 'differentials across capitalist innovation and subaltern
+practices of everyday life'. It is the application of human ingenuity within a complex media
+ecology. Ecology can be understood to refer to the media ecology of the mobile phone and
+associated networked communication systems, but also to the jugaad ecologies as a whole
+that 'affect a passing from stasis (obstacle, law, hurdle, blockage, problem) to improvi-
+sation (passage, exit, trick, movement)'. To affect this change from one state to another
+is not a capacity reserved only for human agents in this complex ecology. Conceiving of
+organic or inorganic agents as holding latent potential to act on each other describes an
+
+
+affective capacity. This is a useful way to frame jugaad and making practice more broadly,
+including the way agency is distributed within human, material, and technical interactions.
+Jugaad-style practices are often an exercise in exceeding the design of technical objects,
+which is possible because these objects have a 'homeostatic autonomy that exists outside
+of any one human's grasp'. These practices – which include overcoming the expected
+conditions of use or restrictive access to technical assemblages such as mobile phones, for
+example – are reminiscent of tactics that oppose or insert themselves into institutionalized
+relations of power, tactics echoed in the Maker's Bill of Rights that state an opposition to
+the institutionalized forces of production.
+
+Vibrant Making
+
+Another example of an alternative making practice is drawn from an observational research
+study of an artist. Felix Larsen-Jensen uses a bricolage approach to analogue electronic
+music production, creating tools and instruments from assemblages of recycled materi-
+als, found objects, and electronic components. Larsen-Jensen is identified as part of a
+maker culture and perhaps even self-identifies as a maker. However, the relationship to
+his materials is driven by their animate qualities and their contingent properties within
+a chaotic environment. Such an approach to making, materiality, and the environment
+has more in common with jugaad than with a makerspace or FabLab in their common
+Western-centric configurations.
+
+This difference is proposed as part of a wider shift to a neo-animist ontology, a concept
+ drawn from Jane Bennett's book Vibrant Matter. She asks the question 'what if materiality
+ itself harbors creative vitality?' and critiques the conception of matter as subject only to
+'mechanisms' or 'autonomisms' that treats the things of the world as inert and determined
+ only by human-made forces. She argues that there is an energetic vitality inside all things
+ that she calls 'thing-power'. This power or vibrancy, she explains, 'mean[s] the capacity of
+ things – edibles, commodities, storms, metals – not only to impede or block the will and
+ designs of humans, but also to act as quasi-agents or forces with trajectories, propensities,
+ or tendencies of their own'.
+
+In the research findings, the DIY practitioner demonstrates a codependent relationship with
+his workshop environment, where the collision of parts, materials, and space are more
+important for the creative emergence of difference-in-itself than an efficacious approach
+to materiality where manipulation of materials, understanding of tools, and expected out-
+comes are exclusive only to human agency. The practice and creative outcomes of the artist
+are extremely entangled with the materials, which exhibit a latent capacity for affecting his
+own agency and the outcomes of the work.
+
+
+
+
+An interesting observation from this study is made at the local refuse center where the artist
+salvages many of his materials. The discarded objects available in this space are arranged
+not by their original use or function, but by their most abundant material quality. This
+leads to unexpected adjacencies such as 'birdcages, deckchairs, and Zimmer frames'.
+
+Separated from their original function, these decontextualized objects open their material
+capacity and exceed the thresholds of their original design. An example of an assemblage
+created by Larsen-Jensen is a discarded aluminum pie dish combined with – amongst
+other components – a control potentiometer for modulating an oscillating sound output
+within a given range. In Larsen-Jensen's 'pie dish oscillator', the potentiometer has
+started to degrade, and the formerly discrete entity begins to have unexpected effects
+on the output, 'varying from harsh metallic grinding sounds, to a sound similar to fluc-
+tuating hissing steam, which sporadically and unpredictably resumes a pitched tone'.
+
+Although the potentiometer may have degraded because it had been manually modified
+by Larsen-Jensen, the multitudinous ways that the internal materials and components
+pull and push against each other – degrading material properties, changing the flow of
+electrons, and distorting the subsequent sound output – are all processes generated
+outside of human agency. This brings to mind Bennett's discussion of encounters with
+various objects, particularly her story of debris found in a storm drain and the energetic
+vitality inside it. She recalls that: 'In this assemblage, objects appeared as things, that
+is, as vivid entities not entirely reducible to the contexts in which (human) subjects set
+them, never entirely exhausted by their semiotics'.
+
+Outside of opportunities afforded to creative practice by a co-constitutive practice
+between humans and non-humans, what are the benefits of introducing a vitality to
+matter? Within Bennett's thesis for a political ecology of things, she suggests a motiva-
+tion that lies within our 'human hubris' when we consider matter as 'dead or thoroughly
+instrumentalized', which leads to a lack of attentiveness to our material and ecological
+conditions. Bennett wishes to promote 'greener forms of human culture and more atten-
+tive encounters between people-materialities and thing-materialities'.  Without doubt,
+a wholesale change in attitudes toward the relationship between humans and the envi-
+ronment is necessary at this critical moment, and the restructuring of material culture
+can play a key role in this transformation. A making practice that considers the vitality
+in material suggests a positive attentiveness to materiality, but what does an ontological
+equality between humans and objects exclude? When everything has 'thing-power' we
+should not ignore the fact that not all actants have the same legible effect.
+
+
+
+
+Situated Making
+
+The maker movement is a predominantly Western phenomenon: 'What is called "making"
+in North America and Europe is frankly a luxurious pastime of wealthy people who rightly
+recognize that their lives are less full because they are alienated from material culture, [yet]
+all over what is called the Global South there are makers everywhere, only they are not called
+makers. There are fab labs everywhere, only they are not called fab labs'.
+
+Looking beyond a Western viewpoint, there are ample examples of practices that present
+characteristics of the maker movement in their approaches to social and technological evo-
+lution, challenging existing models of production, distribution, and consumption through the
+democratization of tools and processes.
