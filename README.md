@@ -8,7 +8,7 @@ I've included the projects Open-Source 3D-Printable files within this repo - inc
 
 ## DIY MFC Fabrication Guide
 ![Ars](https://github.com/user-attachments/assets/1db30d50-1585-4e9a-a2f5-e14d113e1ce0)
-[Download](https://drive.google.com/drive/folders/1DFRlK03JcdQhnR9fffPKD-sNaGbGZtGr?usp=share_link)
+[Download](https://drive.google.com/file/d/1TQ7L6eCssIxHp_zuYKUoWmhEHfJPRqUa/view?usp=share_link)
 
 ## Resources
 - [Project Page](https://matthewhalpenny.com/#gtcm)
