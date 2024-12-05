@@ -2,8 +2,13 @@
 ## About
 Gardening the Cybernetic Meadow is a research-creation project that engages with the fields of interdisciplinary art, ecology, and sustainable energy technologies drawing energy from bio-matter (soil microbes). Microbial fuel cells (hereby MFCs) are a type of bio-based fuel cell, or more broadly a soilbased generator and battery. MFCs are a regenerative energy technology that use soil as medium and uptake energy through collecting by-products of microbial metabolism. The outcomes of Gardening the Cybernetic Meadow’s research-creation are disseminated through multiple modes of knowledge sharing, shifting away from a primary reliance on the traditional written thesis. Inspired by research-creation frameworks of scholars such as Natalie Loveless (2019), it distributes the thesis’ research results through three methods. 1) an interdisciplinary, participatory art installation (sharing the title of this thesis); 2) an open-source microbial fuel cell fabrication guide generated through the documentation of the researchcreation process; 3) this component, the written thesis. Guided by theoretical frameworks encompassing critical making, relational aesthetics, and temporal aesthetics, the project not only challenges traditional modes of research dissemination but also offers a tangible platform for engaging diverse audiences across artistic and scientific domains. Gardening the Cybernetic Meadow aspires to reshape future inquiries by propelling investigations into sustainable energy, ecological interdependence, and experiential learning. This undertaking exemplifies the fusion of creativity and technology while nurturing a dynamic ecosystem of collaboration, contemplation, and transformative thought.
 
+## Open-Source MFC Design
 ![Bryo-MFC](https://github.com/user-attachments/assets/d2c1eec4-d6da-4699-b521-1a8936dcbcfe)
-<img width="1274" alt="Ars" src="https://github.com/user-attachments/assets/bd4060ca-f34b-46e2-92e6-62972f159b41">
+I've included the projects Open-Source 3D-Printable files within this repo - including iterations for P-MFCs, Bryo-MFCs, and the associated E-Ink Cases used alongside them.
+
+## DIY MFC Fabrication Guide
+![Ars](https://github.com/user-attachments/assets/1db30d50-1585-4e9a-a2f5-e14d113e1ce0)
+[Download](https://drive.google.com/drive/folders/1DFRlK03JcdQhnR9fffPKD-sNaGbGZtGr?usp=share_link)
 
 ## Resources
 - [Project Page](https://matthewhalpenny.com/#gtcm)
@@ -16,6 +21,6 @@ Gardening the Cybernetic Meadow is a research-creation project that engages with
 
 
 ## Open-Source 3D Files
-I've included my own Open-Source 3D-Printable files within this repo for the project's MFCs and E-Ink Cases
+
 
 
